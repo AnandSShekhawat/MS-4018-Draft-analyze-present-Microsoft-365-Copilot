@@ -95,25 +95,36 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 Because this presentation will be given both in-person and virtually, let's give our audience a few minutes to join without the possibility of missing important information. Copilot can help generate an idea and then a slide for a fun icebreaker to keep our audience occupied while others join.
 
-1. Let's first change the view in PowerPoint, if necessary. Select **View -> Normal**.
+1. Let's first change the view in PowerPoint, Select **View ()1-> Normal (2)**.
 
-1. Return to the **Home** ribbon view.
+    ![](./Media/ms1l17.png)
 
-1. Open the Copilot pane and enter the following prompt:
+1. Return to the **Home (1)** ribbon view.Open the **Copilot (2)** pane 
 
-     +++Can you help me brainstorm an icebreaker question that would be good for a global audience? Provide three options for me to choose from.+++
-
-     Copilot responds with suggestions for your icebreaker. If none of these questions fit what you're looking for, prompt Copilot to generate more suggestions.
-
-     The first question looks great for our audience, so let's ask Copilot to generate a slide with this question, a corresponding image, and to insert this as the first slide in the presentation.
+    ![](./Media/ms1l18.png)
 
 1. Enter the following prompt:
 
-    +++Use question 1 as the icebreaker, and generate a slide that includes a complementary image. Insert this slide as the first slide in the presentation.+++
+   ```
+   Can you help me brainstorm an icebreaker question that would be good for a global audience? Provide three options for me to choose from. 
+   ```
+
+    ![](./Media/ms1l19.png)   
+
+
+1. The first question looks great for our audience, so let's ask Copilot to generate a slide with this question, a corresponding image **(1)**, and to insert this as the first slide in the presentation **(2)**.
+
+1. Enter the following prompt:
+
+   ```
+   Use question 1 as the icebreaker, and generate a slide that includes a complementary image. Insert this slide as the first slide in the presentation. 
+   ```
+
+    ![](./Media/ms1l20.png)   
 
     Now, you've got a great way to start a conversation among your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
-#### Exercise 3 - Insert an image
+### Exercise 3 - Insert an image
 
 While Copilot includes images as it creates slides, you may want to add or edit an image to be more specific to your presentation. You can ask Copilot to include an image from your approved corporate library, provided your administrator has set the appropriate configurations, or generate an image based on an idea you have.
 
@@ -121,18 +132,21 @@ While Copilot includes images as it creates slides, you may want to add or edit 
 
 1. Navigate to the title slide that Copilot generated.
 
-1. Enter the following prompt in the Copilot pane:
+    ![](./Media/ms1l21.png)
 
-    +++Replace the image on the Title slide with an image of a person sipping a warm cup of tea.+++
+1. Enter the following prompt in the Copilot pane **(1)**:
 
-    > [!NOTE]
-    > Feel free to experiment with your own prompt to generate an image  you think would work best for the presentation. The more details you provide, the better.
+   ```
+   Replace the image on the Title slide with an image of a person sipping a warm cup of tea. 
+   ```
 
-1. Copilot opens the **Designer** feature and creates and displays an image that matches your request.
+    - Select one image **(2)** and then **insert (3)**
 
-1. Once the options are shown, select to **Insert** your choice.
+      ![](./Media/ms1l22.png)    
 
-1. Delete the original image and edit the new one to best fit the space in the slide.
+1. Copilot opens the **Designer** feature and creates and displays an image that matches your request. Select one design **(1)**. Delete the original image and edit the new one to best fit the space in the slide **(2)**.
+
+    ![](./Media/ms1l23.png)
 
 #### Exercise 4 - Edit the text
 
