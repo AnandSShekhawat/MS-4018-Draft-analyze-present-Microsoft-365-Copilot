@@ -10,11 +10,19 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 [Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126)
 
-1. In the Lab VM, open a web browser, right click on the following link [Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126) then **Copy link** and then paste it on the browser tab.
+1. In the Lab VM, open a web browser, right click on the following link [Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126) then **Copy link** and then paste it on the browser tab to download the word file.
 
-1. Select download file.
+1. Select **Download file**.
 
+    ![](./Media/ms1l1.png)
 
+1. Right click on the following link, [M365 Copilot](https://m365.cloud.microsoft/apps/?auth=2) then **Copy link** and then paste it on the browser tab to navigate to the **M365 Copilot**.
+
+    ![](./Media/ms1l2.png)
+
+1. Select **Apps (1)** and then select **Onedrive (2)**.   
+
+    ![](./Media/ms1l3.png)
 
 
 #### Exercise 1 - Create a new presentation based on a Word document
