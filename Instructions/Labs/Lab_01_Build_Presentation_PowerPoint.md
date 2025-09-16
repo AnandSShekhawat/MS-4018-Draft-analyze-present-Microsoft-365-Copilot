@@ -148,48 +148,69 @@ While Copilot includes images as it creates slides, you may want to add or edit 
 
     ![](./Media/ms1l23.png)
 
-#### Exercise 4 - Edit the text
+### Exercise 4 - Edit the text
 
 As you're reviewing the presentation, you may decide the text Copilot generated isn't right for you. Use Copilot to help you refine the text on your slides. For instance, you can type *Edit the text on this slide to make it more concise* or *Make this text more engaging for the reader* Let's see how:
 
-1. Navigate to the slide containing the text you may want to edit.
+1. Navigate to the slide containing the text you may want to edit **(1)**
 
-1. In the Copilot pane, enter the following prompt:
+    - In the Copilot pane, enter the following prompt **(2)**:
 
-    +++Edit this text to make it more conversational.+++
+      ```
+      Edit this text to make it more conversational. 
+      ```  
+     - Select the text **(3)**
+     - Select **+ Add selection (4)** and then **Send (5)**
+       
+       ![](./Media/ms1l24.png)       
 
-1. Copy and paste the text you want to edit in the Copilot prompt dialog, then select **Send**.
+1. Review the suggestions provided by Copilot.
 
-1. Review the suggestions provided by Copilot, then cut and paste it onto the slide, and make any necessary adjustments.
+    ![](./Media/ms1l25.png)
 
-#### Exercise 5 - Organize the presentation
+1. Copy and paste it onto the slide, and make any necessary adjustments.
+
+    ![](./Media/ms1l26.png)
+
+### Exercise 5 - Organize the presentation
 
 As you're reviewing the presentation, you may find that the topics in your presentation need to be more clearly identified. You can use Copilot in PowerPoint to inject this clarity.
 
 1. In the Copilot pane, enter the following prompt:
 
-    +++Organize this presentation.+++
+   ```
+   Organize this presentation. 
+   ```
 
 1. Copilot responds, providing suggestions for each slide. You can select to update the content as you'd like or iterate your prompt to receive additional suggestions. 
 
 1. Ensure that your presentation has a logical sequence and smooth transitions between slides.
 
-#### (Optional) Exercise - Send a draft for review
+### (Optional) Exercise - Send a draft for review
 
 Once you're satisfied with your presentation, use Copilot in Outlook to draft an email to your manager for review.
 
-1. Launch Microsoft Outlook from your browser [outlook.office.com](https://outlook.office.com) or desktop application and select **New mail**.
+1. Launch Microsoft Outlook from your browser [outlook.office.com](https://outlook.office.com).
 
-1. Select the **Copilot** icon in the email composition window.
+1. Select **New mail**.
 
-1. Enter the following prompt:
-
-    +++Draft an email asking for a review of the presentation that I attached to this email. Write the email in a casual tone.+++
+    ![](./Media/ms1l28.png)
 
 1. Select **Draft with Copilot**.
 
-1. Review the email draft, make any necessary edits, and send it to your intended recipient.
+    ![](./Media/ms1l29.png)
 
-And just like that, you're all set to impress your manager with a polished presentation! Happy presenting.
+1. Enter the following prompt **(1)** and then **Send (2)**:
+
+   ```
+   Draft an email asking for a review of the presentation that I attached to this email. Write the email in a casual tone. 
+   ```
+
+    ![](./Media/ms1l30.png)   
+
+1. Review the email draft **(1)**, make any necessary edits, and mention mail ID of intended recipient **(2)** and then **Send (3)**.
+
+    ![](./Media/ms1l31.png)
+
 
 **End of Lab 1**
