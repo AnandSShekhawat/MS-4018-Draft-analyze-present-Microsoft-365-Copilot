@@ -18,30 +18,80 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Right click on the following link, [M365 Copilot](https://m365.cloud.microsoft/apps/?auth=2) then **Copy link** and then paste it on the browser tab to navigate to the **M365 Copilot**.
 
+1. Select **Apps (1)** and then select **Onedrive (2)**.   
+
     ![](./Media/ms1l2.png)
 
-1. Select **Apps (1)** and then select **Onedrive (2)**.   
+1. Select **Create or Upload (1)** and then select **File upload (2)**.
 
     ![](./Media/ms1l3.png)
 
+1. Navigate to **Downloads (1)**, then select **Promotion Plan for Chai Tea in Latin America.docx (2)** and then **Open (3)**.
 
-#### Exercise 1 - Create a new presentation based on a Word document
+    ![](./Media/ms1l4.png)
 
-1. Open PowerPoint using the desktop application or from your browser at [powerpoint.new](https://powerpoint.new) and start a new presentation.
+1. Make sure the file uploaded.
 
-1. Select the **Copilot** icon, then use Copilot to generate a draft presentation using the following prompt:
 
-    +++Create a presentation about Contoso's Chai Tea based on+++
+### Exercise 1 - Create a new presentation based on a Word document
 
-1. In the prompt dialog box, enter a forward slash (/) followed by the name of the file **(Promotion Plan for Chai Tea in Latin America.docx)**. If the file doesn't populate in the list, select the plus button then **Attach**. Navigate to **My files** and select the document from your OneDrive folder.
-   
-1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and select **Generate slides** to continue. Copilot generates slides and content for each. The presentation may display results in either the **Slide Sorter** or **Normal** view.
+1. Navigate back to [M365 Copilot](https://m365.cloud.microsoft/apps/?auth=2).
+
+1. Select **Apps (1)** and then select **PowerPoint (2)** to start a new presentation.
+
+    ![](./Media/ms1l5.png)
+
+1. Select **Create a new presentation**.
+
+    ![](./Media/ms1l6.png)
+
+1. Select **Copilot (1)** and then select **Ask Copilot (2)**.  
+
+    ![](./Media/ms1l7.png)
+
+1. Select the **Copilot (1)** icon, then use Copilot to generate a draft presentation using the following prompt **(2)**:
+
+   ```
+   Create a presentation about Contoso's Chai Tea based on 
+   ```
+
+    ![](./Media/ms1l8.png)
+
+    - In the prompt dialog box, enter a forward slash (**/ (1)**) and select the file **(Promotion Plan for Chai Tea in Latin America.docx) (2)** and then **Send (3)**.
+    
+      ![](./Media/ms1l9.png)    
+    
+       >**Note:** If the file doesn't populate in the list, select the plus button then **Attach**. Navigate to **My files** and select the document from your OneDrive folder.
+
+1. Select **Create new presentation**.
+
+    ![](./Media/ms1l10.png)
+
+1. On the **Create a presentation with Copilot**, select **Referense file (1)** then upload the **Promotion Plan for Chai Tea in Latin America.docx (2)** and then select **Chage design (3)**.
+
+    ![](./Media/ms1l11.png)
+
+1. Navigate to **Micrososft 365 (1)**, then select a template **(2)** and then **Select Design (3)**.  
+
+    ![](./Media/ms1l13.png)
+
+1. Select **Send**.
+
+    ![](./Media/ms1l14.png)
+
+1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and select **Generate slides** to continue.
+
+    ![](./Media/ms1l15.png)
+
+1. Copilot generates slides and content for each. The presentation may display results in either the **Slide Sorter** or **Normal** view.
 
 1. Review the slides and select **Keep it** to continue.
 
+    ![](./Media/ms1l16.png)
+
 1. While this is a great start, you want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
 
-#### Exercise 2 - Ask Copilot to help you create an icebreaker slide
+### Exercise 2 - Ask Copilot to help you create an icebreaker slide
 
 Because this presentation will be given both in-person and virtually, let's give our audience a few minutes to join without the possibility of missing important information. Copilot can help generate an idea and then a slide for a fun icebreaker to keep our audience occupied while others join.
 
