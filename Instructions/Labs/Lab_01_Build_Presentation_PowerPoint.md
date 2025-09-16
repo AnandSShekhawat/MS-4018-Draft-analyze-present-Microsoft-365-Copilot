@@ -1,5 +1,7 @@
 # Lab 1 - Build a presentation from start to finish with Copilot in PowerPoint
 
+### Lab Overview
+
 Imagine you're a marketing manager at a company called Contoso. Your team is preparing for an important client meeting where you need to present the company's strategy for a new Chai Tea product line to be sold in Latin America Your goal is to create a compelling presentation that highlights the product's features, benefits, and use cases, while ensuring it adheres to the company's branding standards. You've already developed a business plan for this product, and want to use that content when preparing for your meeting. You need to collaborate with your team and get the presentation reviewed by your manager before the meeting.
 
 By the end of this Lab, you'll be able to create a new presentation, based on a Word document, insert an image, edit text, organize the presentation, incorporate corporate branding standards, and send the draft presentation to your manager for review using Copilot in PowerPoint.
@@ -7,8 +9,6 @@ By the end of this Lab, you'll be able to create a new presentation, based on a 
 ### Lab prerequisites
 
 Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that reference this file. You should have already uploaded it to OneDrive during the lab setup process, but if you need to download it again, you can do so here and upload in to one drive.
-
-[Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126)
 
 1. In the Lab VM, open a web browser, right click on the following link [Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126) then **Copy link** and then paste it on the browser tab to download the word file.
 
@@ -213,4 +213,8 @@ Once you're satisfied with your presentation, use Copilot in Outlook to draft an
     ![](./Media/ms1l31.png)
 
 
-**End of Lab 1**
+### Summary
+
+In this lab, you explored how Microsoft 365 Copilot in PowerPoint can help build a professional presentation from start to finish. You created a new presentation from a Word document, added an icebreaker slide, inserted and edited images, refined text, and organized content to ensure clear flow. Finally, you applied corporate branding standards and shared the draft for review, experiencing how Copilot streamlines collaboration and enhances presentation design.
+
+### You have successfully completed the Hands-on Lab!
