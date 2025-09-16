@@ -4,11 +4,18 @@ Imagine you're a marketing manager at a company called Contoso. Your team is pre
 
 By the end of this Lab, you'll be able to create a new presentation, based on a Word document, insert an image, edit text, organize the presentation, incorporate corporate branding standards, and send the draft presentation to your manager for review using Copilot in PowerPoint.
 
-### Sample file
+### Lab prerequisites
 
-Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that reference this file. You should have already uploaded it to OneDrive during the lab setup process, but if you need to download it again, you can do so here:
+Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that reference this file. You should have already uploaded it to OneDrive during the lab setup process, but if you need to download it again, you can do so here and upload in to one drive.
 
 [Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126)
+
+1. In the Lab VM, open a web browser, right click on the following link [Promotion Plan for Chai Tea in Latin America.docx](https://go.microsoft.com/fwlink/?linkid=2269126) then **Copy link** and then paste it on the browser tab.
+
+1. Select download file.
+
+
+
 
 #### Exercise 1 - Create a new presentation based on a Word document
 
