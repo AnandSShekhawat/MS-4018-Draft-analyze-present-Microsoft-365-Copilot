@@ -1,5 +1,7 @@
 # Lab 2 - Draft, improve, and share your document with Copilot in Word
 
+### Lab Overview
+
 Imagine you're a project manager tasked with creating a comprehensive project report for your company's new Mystic Spice Premium Chai Tea. In this Lab, you use Microsoft Word to draft the report, (optionally) import notes from OneNote, and share the draft with your team via Microsoft Teams or Microsoft Outlook for feedback and collaboration.
 
 >**NOTE:** While this Lab illustrates how information can flow from one Microsoft 365 app to another, you aren't required to do so. Each of these steps can be completed using Copilot in Word directly. Alternate steps are provided as necessary.
@@ -7,8 +9,6 @@ Imagine you're a project manager tasked with creating a comprehensive project re
 ### Lab prerequisites
 
 Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that reference this file. You should have already uploaded it to OneDrive during the lab setup process, but if you need to download it again, you can do so here:
-
-
 
 1. In the Lab VM, open a web browser, right click on the following link [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826) then **Copy link** and then paste it on the browser tab to download the word file.
 
