@@ -1,0 +1,16 @@
+[
+    {
+      "Name": "MS-4018-Draft-analyze-present-Microsoft-365-Copilot",
+      "Language": "English",
+      "Files": [
+          {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AI-102-AIEngineer/refs/heads/new-AI102/Instructions/AI-102/AI102-gettingstartedpages/Lab01-Gettingstarted.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MS-4018-Draft-analyze-present-Microsoft-365-Copilot/refs/heads/Prod/Instructions/Labs/Lab_04_Boost_productivity_Excel.md",
+          "Order": 2
+        }
+      ]
+    }
+  ]
