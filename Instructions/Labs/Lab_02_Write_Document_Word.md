@@ -37,7 +37,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 1. Make sure the file uploaded.
 
 
-### Exercise 1 - Draft your content
+### Task 1 - Draft your content
 
 Let's create a project report using the Market Analysis you've already gathered. Then, we can edit this file to get the content we need for our report.
 
@@ -124,7 +124,7 @@ Let's create a project report using the Market Analysis you've already gathered.
 
     ![](./Media/ms2l18.png)
 
-### Exercise 2 - Convert text to a table
+### Task 2 - Convert text to a table
 
 While the content in your document may be accurate, consider its readability. Would a section work better if it was presented as a table? Copilot can easily convert text into a table using a prompt.
 
@@ -170,7 +170,7 @@ Let's see this transformation in action.
 
     ![](./Media/ms2l27.png)
 
-### Exercise 3 - Summarize your document
+### Task 3 - Summarize your document
 
 As you complete your document, you want to ensure that your key points are presented clearly. A good way to do this is to see a summary of the document. Likewise, should you receive a large Word document that you don't have time to read in its entirety, the summary feature is key. Let's create a summary at the end of our document.
 
