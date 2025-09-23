@@ -5,7 +5,7 @@ Imagine you're interviewing for position at Contoso, a mid-sized media-driven co
 > [!NOTE]
 > The steps in this Lab provide guidance on how to navigate and prompt Copilot Chat in Teams. Follow along, using your own Teams resources to complete each step.
 
-#### Exercise 1 - Research the interviewer
+### Task 1 - Research the interviewer
 
 Use Copilot Chat in Teams to gather some insights about the interviewer and their role. This research helps you get a better sense of who you'll be speaking with and what their responsibilities are. It's always good to know a bit about the person on the other side of the table!
 
@@ -15,25 +15,28 @@ Use Copilot Chat in Teams to gather some insights about the interviewer and thei
 
 1. Make sure the toggle at the top of the screen is set to **Web**.
 
+    ![](./Media/ms422.png)
+
 1. Prompt Copilot with:
 
-    +++Find information about [Interviewer's Name] and their role at [Contoso].+++
+    ```
+    Find information about Allan and their role at Contoso
+    ```
+.1. Review the information provided by Copilot.
 
-    **Note:** replace [Interviewer's Name] with the name of the person you're interviewing with, and [Contoso] with the name of the company.
-
-1. Review the information provided by Copilot.
-
-#### Exercise 2 - Research the department
+### Task 2 - Research the department
 
 Now, let's use Copilot Chat to research the department you're applying to. Imagine you're applying to the Marketing Innovations Department at Contoso.
 
 1. In the same chat with Copilot, enter the following prompt:
 
-    +++Provide me with an overview of [Contoso]. can you tell me anything about their [research] department?+++
+    ```
+    Provide me with an overview of Contoso. can you tell me anything about their research department?
+    ```
 
 1. Review the information provided by Copilot.
 
-#### Exercise 3 - Generate anticipated questions
+### Task 3 - Generate anticipated questions
 
 As you learn about the company, you see this position could be a great opportunity for you. To make sure that you can navigate the actual interview with confidence, you can use Copilot Chat to brainstorm and generate potential questions the interviewer might ask. Think of it like a friendly sparring session with a trusted coach, where you get to tackle possible questions and refine your answers.
 
@@ -41,29 +44,34 @@ As you learn about the company, you see this position could be a great opportuni
 
 1. Enter the following prompt:
 
-    +++Generate a list of potential questions I may be asked in the interview.+++
+    ```
+    Generate a list of potential questions I may be asked in the interview.
+    ```
 
 1. Review and refine the list of questions provided by Copilot.
 
-#### Exercise 4 - Generate answers
+### Task 4 - Generate answers
 
 Now that you've got an idea of potential questions, you can consider your personal responses. To help craft answers that align with the department's messaging and your personal voice, you can use Copilot Chat to generate answers for each anticipated question.
 
 1. In the same Copilot Chat, prompt Copilot to
 
-    +++Draft answers for the following questions: [copy and paste list of questions here].+++
+    ```
+    Draft answers for the following questions: [copy and paste list of questions here].
+    ```
 
     Because Copilot Chat is an iterative experience, it considers the context of previous chat interactions in the same window.
 
 1. Review and edit the answers provided by Copilot to ensure they align with Contoso's internal messaging and your personal experiences.
 
-#### Exercise 5 - Create an FAQ document
+### Task 5 - Create an FAQ document
 
 These answers are great, and you're feeling confident before your interview. Now, let's create a single source of truth to reference at a later point. Use Copilot to compile the questions and answers into an FAQ Word document.
 
 1. In the same Copilot Chat window, prompt Copilot to 
 
-    +++Create a Word .docx document with this output.+++
+    ```
+    Create a Word .docx document with this output.```
 
     Copilot generates a new Word document titled **FAQ Document**.
 
@@ -75,7 +83,7 @@ These answers are great, and you're feeling confident before your interview. Now
 
 1. Save the document as **FAQ Document**.
    
-#### (Optional) Exercise 6 - Send a thank you email using Copilot in Outlook
+### (Optional) Task 6 - Send a thank you email using Copilot in Outlook
 
 1. Open Outlook and select **New email** button to start composing your thank you note.
 
@@ -83,7 +91,9 @@ These answers are great, and you're feeling confident before your interview. Now
 
 1. Enter a prompt such as:
 
-    +++I need help with drafting a thank you note for a recent interview.+++
+    ```
+    I need help with drafting a thank you note for a recent interview.
+    ```
 
     Copilot  generates a draft for you.
 
@@ -91,4 +101,8 @@ These answers are great, and you're feeling confident before your interview. Now
 
 1. Add your recipients and send your email.
 
-**End of Lab 5**
+### Summary
+
+In this lab, you explored how Microsoft 365 Copilot Chat in Teams can support you in preparing for a job interview. You walked through a realistic scenario where you're interviewing for a position at Contoso, a mid-sized media-driven company. The lab guided you through using Copilot Chat to research, prepare, and present yourself confidently.
+
+### You have successfully completed the Hands-on Lab!
