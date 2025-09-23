@@ -80,7 +80,9 @@ You now want to schedule a meeting to brainstorm some feedback with your team. Y
 
 1. Ask Copilot to suggest the best time for the meeting by entering the following prompt **(1)**:
 
-    +++Schedule a meeting next week based on my availability.+++
+   ```
+   Schedule a meeting next monday for 1hr slot based on my availability 
+   ```
 
     - Select the suggested time **(2)** and Send
 
@@ -95,13 +97,17 @@ You now want to schedule a meeting to brainstorm some feedback with your team. Y
 
 1. Enter the following prompt **(1)** and once done, select **Generate (2)** or press enter on your keyboard.
 
-    +++to discuss the upcoming product launch, review the project timeline, and assign tasks.+++
+   ```
+   to discuss the upcoming product launch, review the project timeline, and assign tasks. 
+   ```
 
     ![](./Media/ms3l17.png)    
 
 1. Copilot will create a draft of the meeting invite **(1)**. Review the suggestion but **don't** select **Keep it**. Instead, enter the following prompt **(2)** and then **Send (3)**:
 
-    +++Rewrite this email in a professional tone.+++
+   ```
+   Rewrite this email in a professional tone. 
+   ```
 
     ![](./Media/ms3l18.png)      
 
@@ -109,6 +115,11 @@ You now want to schedule a meeting to brainstorm some feedback with your team. Y
 
     ![](./Media/ms3l19.png)  
 
+### Summary
+
 By using Copilot in Team's capabilities, you can effortlessly draft, rewrite, and adjust messages, gather insights from team chats, and schedule meetings efficiently. Now, you can confidently use these tools to streamline your workflow and achieve your collaboration goals with ease.
 
-**End of Lab 3**
+### You have successfully completed the Hands-on Lab!    
+
+
+
