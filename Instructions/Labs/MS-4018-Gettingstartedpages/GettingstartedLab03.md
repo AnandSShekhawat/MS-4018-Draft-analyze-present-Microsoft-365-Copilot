@@ -43,7 +43,7 @@ The lab workflow demonstrates how Copilot in Teams and Outlook assists with draf
 
 ## Architecture Diagram
 
-![](../Images/ai19g1.png)
+![](../Media/arc3.png)
 
 ## Explanation of Components
 

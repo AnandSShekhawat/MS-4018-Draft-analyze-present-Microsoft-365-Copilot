@@ -46,7 +46,7 @@ The lab workflow demonstrates how Copilot Chat assists with interview preparatio
 
 ## Architecture Diagram
 
-![](../Images/ai19g1.png)
+![](../Media/arc3.png)
 
 ## Explanation of Components
 

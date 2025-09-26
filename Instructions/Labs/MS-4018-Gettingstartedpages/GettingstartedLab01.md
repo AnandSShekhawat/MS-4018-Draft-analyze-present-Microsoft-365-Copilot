@@ -44,9 +44,18 @@ The lab workflow demonstrates how Copilot in PowerPoint assists in automating co
 
 ## Architecture Diagram
 
-![](../Images/ai19g1.png)
+![](../Media/arc-1.png)
 
 ## Explanation of Components
+
+- **Word:** Core tool for creating, editing, and formatting text-based documents.
+
+- **OneDrive**: It is Microsoft’s cloud storage service that lets you store, access, and share files securely from anywhere.
+
+- **PowerPoint:** Core tool for creating, designing, and presenting visual slide-based presentations.
+
+- **Copilot Integration:** AI-powered assistant embedded in Microsoft 365 apps to summarize content, generate visuals, analyze data, and draft professional text, enhancing productivity and collaboration.
+
 
 
 

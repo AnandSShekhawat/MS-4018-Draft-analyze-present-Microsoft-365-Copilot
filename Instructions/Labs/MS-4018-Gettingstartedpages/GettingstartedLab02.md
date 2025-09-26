@@ -44,10 +44,15 @@ The lab workflow demonstrates how Copilot in Word assists with drafting, refinin
 
 ## Architecture Diagram
 
-![](../Images/ai19g1.png)
+![](../Media/arc-2.png)
 
 ## Explanation of Components
 
+- **Word:** Core tool for creating, editing, and formatting text-based documents.
+
+- **OneDrive**: It is Microsoft’s cloud storage service that lets you store, access, and share files securely from anywhere.
+
+- **Copilot Integration:** AI-powered assistant embedded in Microsoft 365 apps to summarize content, generate visuals, analyze data, and draft professional text, enhancing productivity and collaboration.
 
 
 # Getting Started with lab

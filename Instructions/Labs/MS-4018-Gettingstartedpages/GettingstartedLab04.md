@@ -55,11 +55,13 @@ The lab workflow demonstrates how Copilot in Excel and Outlook assists with anal
 
 ## Architecture Diagram
 
-![](../Images/ai19g1.png)
+![](../Media/arc4.png)
 
 ## Explanation of Components
 
 - **Excel:** Core tool for data analysis, visualization, and calculation.
+
+- **OneDrive**: It is Microsoft’s cloud storage service that lets you store, access, and share files securely from anywhere.
 
 - **Outlook:** Platform for sharing insights and communicating results.
 
