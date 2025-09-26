@@ -11,6 +11,12 @@ Use Copilot Chat in Teams to gather some insights about the interviewer and thei
 
 1.  Open Microsoft Teams by navigating to the following URL: [teams.microsoft.com](https://teams.microsoft.com) or through the desktop application.
 
+1. Provide the credentials below to login:
+
+   - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
+
+   - **Password:** <inject key="AzureAdUserPassword"></inject>
+
 1.  Select the Copilot Chat icon on the left side of the screen.
 
 1. Make sure the toggle at the top of the screen is set to **Web**.

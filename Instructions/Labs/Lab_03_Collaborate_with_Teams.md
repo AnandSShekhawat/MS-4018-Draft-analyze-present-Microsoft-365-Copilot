@@ -6,6 +6,12 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 1. Open **Microsoft Teams** by navigating to the following URL: [teams.microsoft.com](https://teams.microsoft.com).
 
+1. Provide the credentials below to login:
+
+   - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
+
+   - **Password:** <inject key="AzureAdUserPassword"></inject>
+
 1. To start, create a new Team in your team's chat for this conversation. Select the drop down **(1)** and then select **New Team (2)** from the Chat dropdown menu.
 
     ![](./Media/ms3l1.png)

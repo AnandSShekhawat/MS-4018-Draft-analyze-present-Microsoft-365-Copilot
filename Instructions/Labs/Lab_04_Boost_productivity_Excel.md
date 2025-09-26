@@ -16,6 +16,12 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Right click on the following link, [M365 Copilot](https://m365.cloud.microsoft/apps/?auth=2) then **Copy link** and then paste it on the browser tab to navigate to the **M365 Copilot**.
 
+1. Provide the credentials below to login:
+
+   - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
+
+   - **Password:** <inject key="AzureAdUserPassword"></inject>
+
 1. Select **Apps (1)** and then select **Onedrive (2)**.   
 
     ![](./Media/ms1l2.png)
