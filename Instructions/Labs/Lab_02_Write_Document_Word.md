@@ -2,7 +2,7 @@
 
 ### Estimated Duration : 45 Minutes
 
-## Lab Overview
+## Lab Scenario
 
 Imagine you're a project manager tasked with creating a comprehensive project report for your company's new Mystic Spice Premium Chai Tea. In this Lab, you use Microsoft Word to draft the report, (optionally) import notes from OneNote, and share the draft with your team via Microsoft Teams or Microsoft Outlook for feedback and collaboration.
 
