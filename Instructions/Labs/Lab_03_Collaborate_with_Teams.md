@@ -2,9 +2,10 @@
 
 ### Estimated Duration : 45 Minutes
 
-## Lab Overview
+## Lab Scenario
 
-In this hands-on lab, you’ll work with Copilot in Teams and Outlook to draft, refine, and share messages for Contoso’s new Contoso Connect product launch. You’ll start by creating an engaging message in Teams, then rewrite and adjust it using Copilot to ensure clarity and professionalism. Next, you’ll schedule a meeting in Outlook, leveraging Copilot to find the best time and draft a polished meeting invite. By the end of this lab, you’ll be able to streamline communication, collaborate efficiently with your team, and manage project-related messages effectively.
+Imagine you're a manager at Contoso. Your team relies on effective communication to collaborate and achieve goals. You want to rally the team behind a new idea for the Contoso Connect product launch, and need to send a message to your team about how to incorporate this idea before the product launch deadline. Use Copilot to draft, rewrite, and adjust your message to ensure it's clear, concise, and professional.
+
 
 ## Lab Objectives
 
