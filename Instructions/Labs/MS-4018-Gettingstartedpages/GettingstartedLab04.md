@@ -73,7 +73,7 @@ Welcome to Lab 04: Boost your productivity with data-driven decisions with Copil
  
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
  
-![Access Your VM and Lab Guide](../Media/g37.png)
+![Access Your VM and Lab Guide](../Media/msg4.png)
 
 ## Lab Guide Zoom In/Zoom Out
  

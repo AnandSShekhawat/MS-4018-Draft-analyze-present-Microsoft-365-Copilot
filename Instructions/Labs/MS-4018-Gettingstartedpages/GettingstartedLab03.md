@@ -53,7 +53,6 @@ The lab workflow demonstrates how Copilot in Teams and Outlook assists with draf
 
 - **Copilot Integration:** AI assistant embedded in Teams and Outlook to draft, rewrite, adjust, and summarize messages and invites.
 
-Getting Started with Lab
 
 # Getting Started with lab
 
@@ -63,7 +62,7 @@ Welcome to your Lab 03: Manage Collaboration from Start to Finish with Copilot l
  
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
  
-![Access Your VM and Lab Guide](../Media/g37.png)
+![Access Your VM and Lab Guide](../Media/msg3.png)
 
 ## Lab Guide Zoom In/Zoom Out
  
