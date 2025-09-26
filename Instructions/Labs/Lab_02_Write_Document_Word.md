@@ -1,4 +1,4 @@
-# Lab 2 - Draft, improve, and share your document with Copilot in Word
+# Lab 02: Draft, improve, and share your document with Copilot in Word
 
 ### Estimated Duration : 45 Minutes
 
