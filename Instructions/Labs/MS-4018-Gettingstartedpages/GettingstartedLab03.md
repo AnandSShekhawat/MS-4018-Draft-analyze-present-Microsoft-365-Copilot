@@ -51,6 +51,10 @@ The lab workflow demonstrates how Copilot in Teams and Outlook assists with draf
 
 - **Outlook:** Tool for scheduling meetings, sending invites, and managing calendars.
 
+- **Copilot Integration:** AI assistant embedded in Teams and Outlook to draft, rewrite, adjust, and summarize messages and invites.
+
+Getting Started with Lab
+
 # Getting Started with lab
 
 Welcome to your Lab 03: Manage Collaboration from Start to Finish with Copilot lab! This lab provides a seamless environment for you to practice professional communication workflows with Teams and Outlook. Let’s get started:

@@ -1,3 +1,65 @@
+# MS-4018: Draft, analyze, and present with Microsoft 365 Copilot
+
+Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
+
+## Lab 05: Ace your interview with Copilot Chat
+
+
+### Overall Estimated Timing: 45 Minutes
+
+## Overview
+
+In this lab, you’ll use Microsoft 365 Copilot Chat to prepare for a job interview at Contoso. You’ll research the interviewer and department, generate potential questions, draft tailored answers, and compile them into a Word FAQ document. Optionally, you can also draft a professional thank-you email using Copilot in Outlook. This lab highlights how Copilot Chat supports preparation, research, and professional communication.
+
+## Objectives
+
+By the end of this lab, you will be able to:
+
+1. **Research interviewers:** Gather information about your interviewer to tailor your preparation.
+
+1. **Research departments:** Understand the focus and functions of the relevant department.
+
+1. **Generate anticipated questions:** Predict potential interview questions using Copilot Chat.
+
+1. **Draft answers:** Create personalized and professional answers to anticipated questions.
+
+1. **Compile FAQ documents:** Organize questions and answers into a Word document for reference.
+
+1. **Draft professional emails (Optional):** Use Copilot in Outlook to draft a polished thank-you email.
+
+
+## Pre-requisites
+
+- Basic familiarity with Microsoft Teams, Outlook, and Microsoft 365 Copilot Chat.
+
+## Architecture / Workflow
+
+The lab workflow demonstrates how Copilot Chat assists with interview preparation and professional communication:
+
+- **Teams Copilot Chat:** Research interviewers and departments, generate questions, and draft answers.
+
+- **FAQ Document Generation:** Compile questions and answers into a Word document for structured reference.
+
+- **Optional Outlook Integration:** Draft a professional thank-you email to follow up after the interview.
+
+- **Iterative Feedback:** Refine and adjust answers based on Copilot suggestions and personal preferences.
+
+## Architecture Diagram
+
+![](../Images/ai19g1.png)
+
+## Explanation of Components
+
+- **Teams:** Platform for Copilot Chat interactions, research, and answer generation.
+
+- **Outlook:** Tool to draft, refine, and send professional emails.
+
+- **Copilot Chat:** AI assistant that contextualizes chat interactions to research, summarize, and draft professional content efficiently.
+
+# Getting Started with lab
+
+Welcome to Lab 05: Ace Your Interview with Copilot Chat! This lab provides a guided environment to explore how Copilot Chat can assist in interview preparation, research, and professional communication. Let’s get started:
+
 
 # Getting Started with Ace your interview with Copilot Chat
 
