@@ -8,7 +8,7 @@ Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot 
 
 ## Overview
 
-In this lab, you’ll work with Copilot in Word to create a comprehensive project report for Contoso’s Mystic Spice Premium Chai Tea. You’ll start by drafting content from an existing Market Analysis Word document, refine the text to make it professional and engaging, and convert textual information into tables for better clarity. Finally, you’ll summarize the report and prepare it for sharing with your team via Teams or Outlook. This lab demonstrates how Copilot accelerates document creation, enhances readability, and supports collaboration.
+In this lab, you’ll gain practical experience in using Copilot in Word to create a comprehensive project report for Contoso’s Mystic Spice Premium Chai Tea. You’ll start by drafting content from an existing Market Analysis Word document, refine the text to make it professional and engaging, and convert textual information into tables for better clarity. Finally, you’ll summarize the report and prepare it for sharing with your team via Teams or Outlook. This lab demonstrates how Copilot accelerates document creation, enhances readability, and supports collaboration.
 
 ## Objectives
 
