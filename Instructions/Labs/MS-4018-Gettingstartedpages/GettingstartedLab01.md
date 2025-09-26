@@ -2,7 +2,7 @@
 
 Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
 
-## Lab 01: Build a presentation from start to finish with Copilot in PowerPoint
+## Lab 01: Build a Presentation from Start to Finish with Copilot in PowerPoint
 
 ### Overall Estimated Timing: 45 Minutes
 
