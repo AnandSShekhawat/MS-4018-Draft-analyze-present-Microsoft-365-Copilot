@@ -1,4 +1,4 @@
-# Lab 5 - Ace your interview with Copilot Chat
+# Lab 05: Ace your interview with Copilot Chat
 
 ### Estimated Duration : 45 Minutes
 
