@@ -1,6 +1,6 @@
-# Getting Started with Draft, improve, and share your document with Copilot in Word
+# Getting Started with Manage collaboration from start to finish
 
-Welcome to your Draft, Improve, and Share Your Document with Copilot in Word lab! We've prepared a seamless environment for you to explore and learn how to draft, refine, and collaborate on a project report using Copilot in Word. Let's begin by making the most of this experience:
+Welcome to your Manage Collaboration from Start to Finish lab! We've prepared a seamless environment for you to explore and learn how to use Copilot to draft, refine, and optimize team communications for effective collaboration. Let's begin by making the most of this experience:
 
 ## Accessing Your Lab Environment
  
