@@ -2,11 +2,57 @@
 
 Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
 
+## Lab 01: Build a presentation from start to finish with Copilot in PowerPoint
+
+### Overall Estimated Timing: 45 Minutes
+
+## Overview
+
+In this lab, you’ll gain practical experience in building a professional PowerPoint presentation from scratch using Copilot. You will start by uploading the Chai Tea promotion plan Word document to generate slides automatically. Then, you’ll enhance the presentation with icebreaker slides, images, and improved text. Finally, you’ll organize the content for clarity and optionally share the draft presentation for review. This lab demonstrates how Copilot streamlines slide creation, design, and collaboration, saving time while improving the quality of your presentation.
+
+## Objectives
+
+By the end of this lab, you will be able to:
+
+1. **Create a presentation from a Word document:** Use Copilot to automatically generate slides and content from an existing Word document.
+
+1. **Add and enhance slides:** Generate an icebreaker slide and insert images that align with your presentation’s theme.
+
+1. **Edit and refine content:** Improve text to make it more engaging and tailored to your audience.
+
+1. **Organize slides:** Ensure logical flow and clear sequencing of topics throughout the presentation.
+
+1. **Collaborate and share:** Apply corporate branding standards and optionally send a draft presentation to your manager for feedback.
+
+## Pre-requisites
+
+- Basic familiarity with Microsoft 365 Copilot and PowerPoint.
+
+## Architecture / Workflow
+
+The lab workflow demonstrates how Copilot in PowerPoint assists in automating content creation, enhancing visuals, and improving collaboration:
+
+- **Word Document Input:** Start with the Chai Tea promotion plan document to provide source content for slides.
+
+- **Copilot Slide Generation:** Automatically generate slides with suggested titles, bullet points, and structure.
+
+- **Content Enhancement:** Add icebreaker slides, images, and refined text to engage the audience.
+
+- **Slide Organization:** Use Copilot to structure slides logically and apply a design template.
+
+- **Collaboration & Review:** Share the draft presentation via Outlook for feedback, ensuring a polished final product.
+
+## Architecture Diagram
+
+![](../Images/ai19g1.png)
+
+## Explanation of Components
 
 
-# Getting Started with Your Build a presentation from start to finish with Copilot in PowerPoint
 
-Welcome to your Creating a Build a presentation from start to finish with Copilot in PowerPoint lab! We've prepared a seamless environment for you to explore and learn how to transform business content into an engaging, client-ready presentation using Copilot. Let's begin by making the most of this experience:
+# Getting Started with lab
+
+Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
 
 ## Accessing Your Lab Environment
  
