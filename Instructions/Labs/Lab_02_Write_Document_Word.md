@@ -1,10 +1,17 @@
 # Lab 2 - Draft, improve, and share your document with Copilot in Word
 
-### Lab Overview
+### Estimated Duration : 45 Minutes
 
-Imagine you're a project manager tasked with creating a comprehensive project report for your company's new Mystic Spice Premium Chai Tea. In this Lab, you use Microsoft Word to draft the report, (optionally) import notes from OneNote, and share the draft with your team via Microsoft Teams or Microsoft Outlook for feedback and collaboration.
+## Lab Overview
 
->**NOTE:** While this Lab illustrates how information can flow from one Microsoft 365 app to another, you aren't required to do so. Each of these steps can be completed using Copilot in Word directly. Alternate steps are provided as necessary.
+In this hands-on lab, you’ll work with Copilot in Word to draft a comprehensive project report for Contoso’s new Mystic Spice Premium Chai Tea. You’ll start by creating the report, optionally importing notes from OneNote, and refining the content using Copilot. Then, you’ll collaborate with your team by sharing the draft via Microsoft Teams or Outlook for feedback, ensuring the report is complete, polished, and ready for review.
+
+## Lab Objectives
+
+- Task 1 - Draft your content
+- Task 2 - Convert text to a table
+- Task 3 - Summarize your document
+
 
 ### Lab prerequisites
 
@@ -43,9 +50,9 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 1. Make sure the file uploaded.
 
 
-### Task 1 - Draft your content
+### Task 1: Draft your content
 
-Let's create a project report using the Market Analysis you've already gathered. Then, we can edit this file to get the content we need for our report.
+In this task, you will use Copilot in Word to create a project report from an existing Market Analysis document, then refine and rewrite sections to make the content professional and engaging.
 
 1. Navigate back to [M365 Copilot](https://m365.cloud.microsoft/apps/?auth=2).
 
@@ -132,7 +139,7 @@ Let's create a project report using the Market Analysis you've already gathered.
 
 ### Task 2 - Convert text to a table
 
-While the content in your document may be accurate, consider its readability. Would a section work better if it was presented as a table? Copilot can easily convert text into a table using a prompt.
+In this task, you will use Copilot in Word to transform text or lists into a table, enhancing readability and adding additional columns as needed for clarity.
 
 Let's see this transformation in action.
 
@@ -178,7 +185,7 @@ Let's see this transformation in action.
 
 ### Task 3 - Summarize your document
 
-As you complete your document, you want to ensure that your key points are presented clearly. A good way to do this is to see a summary of the document. Likewise, should you receive a large Word document that you don't have time to read in its entirety, the summary feature is key. Let's create a summary at the end of our document.
+In this task, you will use Copilot in Word to generate a summary of your report, highlighting key points to ensure clarity and prepare the content for sharing or further use.
 
 1. Open the **Copilot** pane.
 
