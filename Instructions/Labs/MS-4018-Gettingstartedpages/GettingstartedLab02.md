@@ -1,6 +1,6 @@
 # Getting Started with Draft, improve, and share your document with Copilot in Word
 
-Welcome to your Creating a Build a presentation from start to finish with Copilot in PowerPoint lab! We've prepared a seamless environment for you to explore and learn how to transform business content into an engaging, client-ready presentation using Copilot. Let's begin by making the most of this experience:
+Welcome to your Draft, Improve, and Share Your Document with Copilot in Word lab! We've prepared a seamless environment for you to explore and learn how to draft, refine, and collaborate on a project report using Copilot in Word. Let's begin by making the most of this experience:
 
 ## Accessing Your Lab Environment
  
