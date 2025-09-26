@@ -1,10 +1,19 @@
-# Lab 1 - Build a presentation from start to finish with Copilot in PowerPoint
+# Lab 01: Build a presentation from start to finish with Copilot in PowerPoint
 
-### Lab Overview
+### Estimated Duration : 45 Minutes
 
-Imagine you're a marketing manager at a company called Contoso. Your team is preparing for an important client meeting where you need to present the company's strategy for a new Chai Tea product line to be sold in Latin America Your goal is to create a compelling presentation that highlights the product's features, benefits, and use cases, while ensuring it adheres to the company's branding standards. You've already developed a business plan for this product, and want to use that content when preparing for your meeting. You need to collaborate with your team and get the presentation reviewed by your manager before the meeting.
+## Lab Overview
 
-By the end of this Lab, you'll be able to create a new presentation, based on a Word document, insert an image, edit text, organize the presentation, incorporate corporate branding standards, and send the draft presentation to your manager for review using Copilot in PowerPoint.
+In this hands-on lab, you’ll work with Copilot in PowerPoint to create a client-ready presentation for Contoso’s new Chai Tea product line in Latin America. You’ll start by generating slides from an existing Word document, inserting images, and editing text to highlight key features and benefits. Then, you’ll organize the presentation, apply corporate branding standards, and collaborate with your team. Finally, you’ll send the draft presentation to your manager for review to ensure it’s polished and ready for the client meeting.
+
+## Lab Objectives
+
+- Task 1: Create a new presentation based on a Word document
+- Task 2: Ask Copilot to help you create an icebreaker slide
+- Task 3: Insert an image
+- Task 4: Edit the text
+- Task 5: Organize the presentation
+- Task 6: Send a draft for review (Optional) 
 
 ### Lab prerequisites
 
@@ -39,7 +48,9 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 1. Make sure the file uploaded.
 
 
-### Exercise 1 - Create a new presentation based on a Word document
+### Task 1: Create a new presentation based on a Word document
+
+In this task, you will use Copilot in PowerPoint to generate a draft presentation by uploading the Chai Tea promotion plan Word document and applying a design template.
 
 1. Navigate back to [M365 Copilot](https://m365.cloud.microsoft/apps/?auth=2).
 
@@ -97,9 +108,9 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. While this is a great start, you want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
 
-### Exercise 2 - Ask Copilot to help you create an icebreaker slide
+### Task 2: Ask Copilot to help you create an icebreaker slide
 
-Because this presentation will be given both in-person and virtually, let's give our audience a few minutes to join without the possibility of missing important information. Copilot can help generate an idea and then a slide for a fun icebreaker to keep our audience occupied while others join.
+In this task, you will use Copilot in PowerPoint to brainstorm icebreaker questions for a global audience and generate a slide with an image to engage participants at the start of your presentation.
 
 1. Let's first change the view in PowerPoint, Select **View ()1-> Normal (2)**.
 
@@ -130,9 +141,9 @@ Because this presentation will be given both in-person and virtually, let's give
 
     Now, you've got a great way to start a conversation among your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
-### Exercise 3 - Insert an image
+### Task 3: Insert an image
 
-While Copilot includes images as it creates slides, you may want to add or edit an image to be more specific to your presentation. You can ask Copilot to include an image from your approved corporate library, provided your administrator has set the appropriate configurations, or generate an image based on an idea you have.
+In this task, you will use Copilot in PowerPoint to add or replace images on your slides, either from the corporate library or generated based on your ideas, to better align with your presentation’s content.
 
 1. Let's ask Copilot to insert a diagram on the title slide.
 
@@ -154,9 +165,9 @@ While Copilot includes images as it creates slides, you may want to add or edit 
 
     ![](./Media/ms1l23.png)
 
-### Exercise 4 - Edit the text
+### Task 4: Edit the text
 
-As you're reviewing the presentation, you may decide the text Copilot generated isn't right for you. Use Copilot to help you refine the text on your slides. For instance, you can type *Edit the text on this slide to make it more concise* or *Make this text more engaging for the reader* Let's see how:
+In this task, you will use Copilot in PowerPoint to refine and improve the text on your slides, making it more concise, engaging, or tailored to your audience.
 
 1. Navigate to the slide containing the text you may want to edit **(1)**
 
@@ -178,9 +189,9 @@ As you're reviewing the presentation, you may decide the text Copilot generated 
 
     ![](./Media/ms1l26.png)
 
-### Exercise 5 - Organize the presentation
+### Task 5: Organize the presentation
 
-As you're reviewing the presentation, you may find that the topics in your presentation need to be more clearly identified. You can use Copilot in PowerPoint to inject this clarity.
+In this task, you will use Copilot in PowerPoint to structure your slides, ensuring a logical flow and clear sequence of topics throughout the presentation.
 
 1. In the Copilot pane, enter the following prompt:
 
@@ -192,9 +203,9 @@ As you're reviewing the presentation, you may find that the topics in your prese
 
 1. Ensure that your presentation has a logical sequence and smooth transitions between slides.
 
-### (Optional) Exercise - Send a draft for review
+### Task 6: Send a draft for review (Optional) 
 
-Once you're satisfied with your presentation, use Copilot in Outlook to draft an email to your manager for review.
+In this task, you will use Copilot in Outlook to draft and send an email to your manager, sharing your presentation and requesting feedback.
 
 1. Launch Microsoft Outlook from your browser [outlook.office.com](https://outlook.office.com).
 
