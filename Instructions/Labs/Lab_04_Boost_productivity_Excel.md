@@ -2,9 +2,9 @@
 
 ### Estimated Duration : 45 Minutes
 
-## Lab Overview
+## Lab Scenario
 
-In this hands-on lab, you’ll work with Copilot in Excel to analyze sales data for Contoso’s Chai products. You’ll start by exploring the dataset, identifying key metrics, and visualizing sales trends. Next, you’ll compare product performance, calculate totals, and analyze correlations with social media engagement. Finally, you’ll generate insights from your analysis and use Copilot in Outlook to share your findings with the team for data-driven decision making.
+Imagine you're a sales manager at Contoso. Your primary responsibility is to analyze sales data and identify trends that can help improve the company's performance. In this hands-on Lab, you'll use Copilot in Excel to explore and analyze various aspects of the sales data for Contoso's Chai products. You'll start by getting an overview of the data and identifying key metrics. Next, you'll analyze sales trends, compare product sales, and calculate total sales. Additionally, you'll examine the relationship between social media engagement and chai sales, and identify any correlations between online searches and sales. Finally, you'll generate insights from your analysis and summarize the key findings.
 
 ## Lab Objectives
 
