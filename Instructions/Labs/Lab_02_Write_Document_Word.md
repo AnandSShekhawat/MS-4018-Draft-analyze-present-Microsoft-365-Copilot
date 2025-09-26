@@ -4,7 +4,7 @@
 
 ## Lab Overview
 
-In this hands-on lab, you’ll work with Copilot in Word to draft a comprehensive project report for Contoso’s new Mystic Spice Premium Chai Tea. You’ll start by creating the report, optionally importing notes from OneNote, and refining the content using Copilot. Then, you’ll collaborate with your team by sharing the draft via Microsoft Teams or Outlook for feedback, ensuring the report is complete, polished, and ready for review.
+Imagine you're a project manager tasked with creating a comprehensive project report for your company's new Mystic Spice Premium Chai Tea. In this Lab, you use Microsoft Word to draft the report, (optionally) import notes from OneNote, and share the draft with your team via Microsoft Teams or Microsoft Outlook for feedback and collaboration.
 
 ## Lab Objectives
 
