@@ -1,8 +1,21 @@
 # Lab 4 - Boost your productivity with data-driven decisions with Copilot in Excel
 
-Imagine you're a sales manager at Contoso. Your primary responsibility is to analyze sales data and identify trends that can help improve the company's performance. In this hands-on Lab, you'll use Copilot in Excel to explore and analyze various aspects of the sales data for Contoso's Chai products.
+### Estimated Duration : 45 Minutes
 
-You'll start by getting an overview of the data and identifying key metrics. Next, you'll analyze sales trends, compare product sales, and calculate total sales. Additionally, you'll examine the relationship between social media engagement and chai sales, and identify any correlations between online searches and sales. Finally, you'll generate insights from your analysis and summarize the key findings.
+## Lab Overview
+
+In this hands-on lab, you’ll work with Copilot in Excel to analyze sales data for Contoso’s Chai products. You’ll start by exploring the dataset, identifying key metrics, and visualizing sales trends. Next, you’ll compare product performance, calculate totals, and analyze correlations with social media engagement. Finally, you’ll generate insights from your analysis and use Copilot in Outlook to share your findings with the team for data-driven decision making.
+
+## Lab Objectives
+
+- Task 1: Explore the data
+- Task 2: Identify sales trends
+- Task 3: Compare product sales
+- Task 4: Calculate total sales
+- Task 5: Analyze social media engagement
+- Task 6: Generate insights
+- Task 7: Send your insights to the team
+
 
 ### Lab prerequisites
 
@@ -40,7 +53,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Make sure the file uploaded.
 
-### Task 1 - Explore the data
+### Task 1: Explore the data
 
 To get an idea of market trends, you must first understand  the overall performance of Contoso's Chai products. Your first step is to get an overview of the data and identify key metrics that can guide your analysis.
 
@@ -58,7 +71,7 @@ To get an idea of market trends, you must first understand  the overall performa
 
     ![](./Media/ms414.png)
 
-### Task 2 - Identify sales trends
+### Task 2: Identify sales trends
 
 As a sales manager, you need to identify trends in the sales data to make informed decisions. Let's look at the total chai sales over the year and look for any patterns or trends that can help improve sales strategies.
 
@@ -84,7 +97,7 @@ As a sales manager, you need to identify trends in the sales data to make inform
 
    ![](./Media/ms416.png)
 
-### Task 3 - Compare product sales
+### Task 3: Compare product sales
 
 To optimize your product offerings, you need to compare the sales of different chai products. Copilot can help you to easily compare the sales of Artisanal Chai and Premade Chai to determine which product category performed better overall.
 
@@ -110,7 +123,7 @@ To optimize your product offerings, you need to compare the sales of different c
    Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.
    ```
 
-### Task 4 - Calculate total sales
+### Task 4: Calculate total sales
 
 Understanding the total sales is crucial for evaluating the success of your sales strategies. Let's ask Copilot to calculate the total sales for each quarter by adding Artisanal Chai Sales and Premade Chai Sales.
 
@@ -125,7 +138,8 @@ Understanding the total sales is crucial for evaluating the success of your sale
 1. Select **Insert columns**.
 
     ![](./Media/ms419.png)
-### Task 5 - Analyze social media engagement
+
+### Task 5: Analyze social media engagement
 
 In today's digital age, social media engagement can significantly impact sales. Let's examine the relationship between social media engagement and chai sales to identify any correlations that can help boost sales.
 
@@ -141,7 +155,7 @@ In today's digital age, social media engagement can significantly impact sales. 
 
 1. Select **Add to sheet** to include these insights to your table.
 
-### Task 6 - Generate insights
+### Task 6: Generate insights
 
 Finally, let's summarize the key insights from your analysis. These insights help you make data-driven decisions to drive sales growth at Contoso.
 
@@ -151,7 +165,7 @@ Finally, let's summarize the key insights from your analysis. These insights hel
     Provide a summary of the key insights from the analysis of the Contoso Chai Tea market trends data.
     ```
 
-### Task 7 - Send your insights to the team
+### Task 7: Send your insights to the team
 
 Once you collect insights on market trends, you can share the information with your stakeholders. Here's how Copilot in Outlook can help you:
 
