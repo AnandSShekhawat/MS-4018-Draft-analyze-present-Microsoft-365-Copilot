@@ -1,4 +1,4 @@
-# Lab 4 - Boost your productivity with data-driven decisions with Copilot in Excel
+# Lab 04: Boost your productivity with data-driven decisions with Copilot in Excel
 
 ### Estimated Duration : 45 Minutes
 
