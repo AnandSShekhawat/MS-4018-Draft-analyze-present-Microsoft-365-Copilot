@@ -52,7 +52,8 @@ The lab workflow demonstrates how Copilot in PowerPoint assists in automating co
 
 # Getting Started with lab
 
-Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
+Welcome to your Lab 01: Creating a Build a presentation from start to finish with Copilot in PowerPoint lab! We've prepared a seamless environment for you to explore and learn how to transform business content into an engaging, client-ready presentation using Copilot. Let's begin by making the most of this experience:
+
 
 ## Accessing Your Lab Environment
  

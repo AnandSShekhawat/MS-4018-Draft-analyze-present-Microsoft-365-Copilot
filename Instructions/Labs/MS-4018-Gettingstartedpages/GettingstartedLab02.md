@@ -1,6 +1,58 @@
-# Getting Started with Draft, improve, and share your document with Copilot in Word
+# MS-4018: Draft, analyze, and present with Microsoft 365 Copilot
 
-Welcome to your Draft, Improve, and Share Your Document with Copilot in Word lab! We've prepared a seamless environment for you to explore and learn how to draft, refine, and collaborate on a project report using Copilot in Word. Let's begin by making the most of this experience:
+Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
+
+## Lab 02: Draft, improve, and share your document with Copilot in Word
+
+### Overall Estimated Timing: 45 Minutes
+
+## Overview
+
+In this lab, you’ll work with Copilot in Word to create a comprehensive project report for Contoso’s Mystic Spice Premium Chai Tea. You’ll start by drafting content from an existing Market Analysis Word document, refine the text to make it professional and engaging, and convert textual information into tables for better clarity. Finally, you’ll summarize the report and prepare it for sharing with your team via Teams or Outlook. This lab demonstrates how Copilot accelerates document creation, enhances readability, and supports collaboration.
+
+## Objectives
+
+By the end of this lab, you will be able to:
+
+1. **Draft content using Copilot:** Generate a professional project report from an existing Word document.
+
+1. **Refine and rewrite text:** Improve paragraphs for clarity, engagement, and professional tone using Copilot’s Auto Rewrite.
+
+1. **Convert text to tables:** Transform textual lists into structured tables and add additional information columns.
+
+1. **Summarize content:** Generate concise summaries to highlight key points for review or sharing.
+
+1. **Collaborate and share:** Use Copilot in combination with Teams or Outlook to share documents and gather feedback efficiently.
+
+## Pre-requisites
+
+- Basic familiarity with Microsoft 365 Copilot and Word.
+
+## Architecture / Workflow
+
+The lab workflow demonstrates how Copilot in Word assists with drafting, refining, structuring, and sharing content:
+
+- **Document Input:** Start with the Market Analysis Report Word document as the content source.
+
+- **Copilot Drafting:** Use Copilot to generate a comprehensive project report including executive summary, introduction, and project objectives.
+
+- **Content Refinement:** Improve paragraphs, rewrite sections, and add engagement or professional tone.
+
+- **Text to Table Transformation:** Convert lists into tables, add columns for task completion, and enhance readability.
+
+- **Summarization & Sharing:** Generate a summary of the report and share it via Teams or Outlook for collaboration.
+
+## Architecture Diagram
+
+![](../Images/ai19g1.png)
+
+## Explanation of Components
+
+
+
+# Getting Started with lab
+
+Welcome to your Lab 02: Draft, Improve, and Share Your Document with Copilot in Word lab! We've prepared a seamless environment for you to explore and learn how to draft, refine, and collaborate on a project report using Copilot in Word. Let's begin by making the most of this experience:
 
 ## Accessing Your Lab Environment
  
