@@ -80,22 +80,16 @@ As a sales manager, you need to identify trends in the sales data to make inform
 1. Prompt Copilot with:
 
     ```
-    Show a line chart of Total Chai Sales (units) over the months.
+    +++Show a line chart of Total Chai Sales (units) over the months.+++
     ```
 
-1. Review Copilot's response, and if you want, add the PivotChart to a new sheet.
+    ![](./Media/201.png)
 
-1. If you added a new PivotChart, review the chart then select **Go back to data** to return to Sheet 1.
-   
-1. To get a quick view of the months with the most successful sales, enter the following prompt:
+1. Review Copilot's response, and if you want, add the to a new sheet.
 
-   ```
-   Highlight the three months with the highest total sales.
-   ```
+    ![](./Media/202.png)
 
-1. **Apply** the conditional formatting rule. Copilot highlights the cells as directed.
-
-   ![](./Media/ms416.png)
+1. If you added a new PivotChart, review the chart then return to Sheet 1.
 
 ### Task 3: Compare product sales
 
@@ -106,22 +100,24 @@ To optimize your product offerings, you need to compare the sales of different c
 1. Prompt Copilot with:
 
     ```
-    Create a bar chart comparing Artisanal Chai Sales (units) and Premade Chai Sales (units) for each month.
+    +++Create a bar chart comparing Artisanal Chai Sales (units) and Premade Chai Sales (units) for each month.+++
     ```
+
+    ![](./Media/203.png)
 
 1. Copilot displays the bar chart. Select **Add to a new sheet**.
 
-   ![](./Media/ms417.png)
+   ![](./Media/205.png)
 
-1. Once you've reviewed the bar chart results, select **Go back to data** to return to Sheet 1.
-
-   ![](./Media/ms418.png)
+1. Once you've reviewed the bar chart results, return to Sheet 1.
    
 1. Summer months can see a wide variance of sales. To understand what type of tea is selling best, you can ask Copilot to determine which product category performed better overall by entering the following prompt:
 
    ```
-   Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.
+    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer. give it in table and that should get insert in the another sheet+++
    ```
+
+   ![](./Media/206.png)
 
 ### Task 4: Calculate total sales
 
@@ -132,12 +128,12 @@ Understanding the total sales is crucial for evaluating the success of your sale
 1. Prompt Copilot with:
 
    ```
-   Calculate the sales for each quarter and add it as a new column.
+    +++Calculate the total sales per quarter. give it in table and that should get insert in the another sheet+++
    ```
 
-1. Select **Insert columns**.
+1. Select **Add to new sheet**.
 
-    ![](./Media/ms419.png)
+    ![](./Media/207.png)
 
 ### Task 5: Analyze social media engagement
 
@@ -148,7 +144,7 @@ In today's digital age, social media engagement can significantly impact sales. 
 1. Determine if there's a correlation between online searches and chai sales by entering the following prompt:
 
     ```
-    Identify any correlations between Online Searches for Chai and Total Chai Sales (units).
+    +++Identify any correlations between Online Searches for Chai and Total Chai Sales (units) that should get insert in the another sheet+++
     ```
 
     >**Note**: Copilot generates a chart showing trends. Additionally, Copilot responds with text indicating there's a high correlation, allowing you instant insight to complicated sales data.
@@ -162,7 +158,7 @@ Finally, let's summarize the key insights from your analysis. These insights hel
 1. In the opened Copilot pane, enter the following prompt:
 
     ```
-    Provide a summary of the key insights from the analysis of the Contoso Chai Tea market trends data.
+    +++Provide a summary of the key insights from the analysis of the Contoso Chai Tea market trends data.+++
     ```
 
 ### Task 7: Send your insights to the team
