@@ -124,7 +124,6 @@ In this task, you will use Copilot in PowerPoint to brainstorm icebreaker questi
 
     ![](./Media/ms1l19.png)   
 
-
 1. The first question looks great for our audience, so let's ask Copilot to generate a slide with this question, a corresponding image **(1)**, and to insert this as the first slide in the presentation **(2)**.
 
 1. Click on **Copilot** symbol and select **Add a slide**.

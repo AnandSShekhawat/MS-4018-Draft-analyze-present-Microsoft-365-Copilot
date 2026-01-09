@@ -40,7 +40,8 @@ In this task, you will use Copilot Chat in Teams to research the interviewer. Yo
     ```
     Find information about Allan and their role at Contoso
     ```
-.1. Review the information provided by Copilot.
+
+1. Review the information provided by Copilot.
 
 ### Task 2 - Research the department
 
