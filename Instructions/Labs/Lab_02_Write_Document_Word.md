@@ -78,21 +78,19 @@ In this task, you will use Copilot in Word to create a project report from an ex
 
      ![](./Media/ms2l6.png) 
 
-1. Select **Attach**.
+1. select **Attach cloud files**.
 
-    ![](./Media/ms2l7.png)
+    ![](./Media/e2t1s6.png)
 
-1. Click **Upload (1)** icon and then select **Attach cloud files (2)**.
-
-    ![](./Media/ms2l8.png)
+1. Click **Upload (1)** icon and then 
 
 1. Navigate to **My files (1)**, select **Market Analysis Report for Mystic Spice Premium Chai Tea.docx (2)** and then **Select (3)**.     
 
-    ![](./Media/ms2l9.png)
+    ![](./Media/e2t1s8.png)
 
 1. Select **Send**.
 
-    ![](./Media/ms2l10.png)
+    ![](./Media/e2t1s9.png)
 
 1. Review the drafted content.
 
@@ -100,7 +98,7 @@ In this task, you will use Copilot in Word to create a project report from an ex
 
 1. Select **Insert (1)** to paste the content to the blank document **(2)**.
 
-    ![](./Media/ms2l12.png)
+    ![](./Media/e2t1s11.png)
 
 1. As you're reviewing the content of your document, you may find that some text needs to be edited or rewritten. The `Product Description section seems to be fairly short, and technical`. Let's edit the text so it's more engaging for our readers.
 
@@ -146,6 +144,10 @@ Let's see this transformation in action.
 1. In the Word document, place your cursor at the end of a paragraph, press **Enter** to start a new line, and then select the on-canvas **Copilot**.
 
     ![](./Media/ms2l19.png)
+
+1. Select **Keep writing this**.
+
+    ![](./Media/e2t2s1.1.png)
 
 1. Ask Copilot to `Add a list of project milestones and their deadlines` **(1)** and then **Send (2)**.
 

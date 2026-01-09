@@ -23,23 +23,37 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Select **Download file**.
 
-    ![](./Media/ms1l1.png)
+    ![](./Media/lp1.png)
 
 1. Right click on the following link, [M365 Copilot](https://m365.cloud.microsoft/apps/?auth=2) then **Copy link** and then paste it on the browser tab to navigate to the **M365 Copilot**.
+
+    ![](./Media/lp2.png)
 
 1. Provide the credentials below to login:
 
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 
+        ![](./Media/lp3.png)
+
    - **Password:** <inject key="AzureAdUserPassword"></inject>
+
+        ![](./Media/lp4.1.png)
+
+   - Click **No** on Stay signed in page.
+
+        ![](./Media/lp4.3.png)
+
+1. Click **X** on Welcome to your Microsoft 365 Copilot app.
+
+    ![](./Media/lp4.4.png)
 
 1. Select **Apps (1)** and then select **Onedrive (2)**.   
 
-    ![](./Media/ms1l2.png)
+    ![](./Media/lp5.png)
 
 1. Select **Create or Upload (1)** and then select **File upload (2)**.
 
-    ![](./Media/ms1l3.png)
+    ![](./Media/lp6.png)
 
 1. Navigate to **Downloads (1)**, then select **Promotion Plan for Chai Tea in Latin America.docx (2)** and then **Open (3)**.
 
@@ -56,33 +70,15 @@ In this task, you will use Copilot in PowerPoint to generate a draft presentatio
 
 1. Select **Apps (1)** and then select **PowerPoint (2)** to start a new presentation.
 
-    ![](./Media/ms1l5.png)
+    ![](./Media/e1t1s2.png)
 
 1. Select **Create a new presentation**.
 
     ![](./Media/ms1l6.png)
 
-1. Select **Copilot (1)** and then select **Ask Copilot (2)**.  
+1. Select the **Copilot** on-screen option, located on the top-left corner of the empty slide, then select **Create a new presentation with file** from the menu to generate a draft presentation.
 
-    ![](./Media/ms1l7.png)
-
-1. Select the **Copilot (1)** icon, then use Copilot to generate a draft presentation using the following prompt **(2)**:
-
-   ```
-   Create a presentation about Contoso's Chai Tea based on 
-   ```
-
-    ![](./Media/ms1l8.png)
-
-    - In the prompt dialog box, enter a forward slash (**/ (1)**) and select the file **(Promotion Plan for Chai Tea in Latin America.docx) (2)** and then **Send (3)**.
-    
-      ![](./Media/ms1l9.png)    
-    
-       >**Note:** If the file doesn't populate in the list, select the plus button then **Attach**. Navigate to **My files** and select the document from your OneDrive folder.
-
-1. Select **Create new presentation**.
-
-    ![](./Media/ms1l10.png)
+    ![](./Media/101.png)
 
 1. On the **Create a presentation with Copilot**, select **Referense file (1)** then upload the **Promotion Plan for Chai Tea in Latin America.docx (2)** and then select **Chage design (3)**.
 
@@ -90,11 +86,11 @@ In this task, you will use Copilot in PowerPoint to generate a draft presentatio
 
 1. Navigate to **Micrososft 365 (1)**, then select a template **(2)** and then **Select Design (3)**.  
 
-    ![](./Media/ms1l13.png)
+    ![](./Media/e1t1s8.png)
 
 1. Select **Send**.
 
-    ![](./Media/ms1l14.png)
+    ![](./Media/e1t1s9.png)
 
 1. Copilot displays a presentation outline showing the potential slides and bulleted points to be included on each slide. Review the suggested topic and select **Generate slides** to continue.
 
@@ -104,7 +100,7 @@ In this task, you will use Copilot in PowerPoint to generate a draft presentatio
 
 1. Review the slides and select **Keep it** to continue.
 
-    ![](./Media/ms1l16.png)
+    ![](./Media/e1t1s12.png)
 
 1. While this is a great start, you want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
 
@@ -114,11 +110,11 @@ In this task, you will use Copilot in PowerPoint to brainstorm icebreaker questi
 
 1. Let's first change the view in PowerPoint, Select **View ()1-> Normal (2)**.
 
-    ![](./Media/ms1l17.png)
+    ![](./Media/e1t2s1.png)
 
 1. Return to the **Home (1)** ribbon view.Open the **Copilot (2)** pane 
 
-    ![](./Media/ms1l18.png)
+    ![](./Media/e1t2s2.png)
 
 1. Enter the following prompt:
 
@@ -131,13 +127,21 @@ In this task, you will use Copilot in PowerPoint to brainstorm icebreaker questi
 
 1. The first question looks great for our audience, so let's ask Copilot to generate a slide with this question, a corresponding image **(1)**, and to insert this as the first slide in the presentation **(2)**.
 
-1. Enter the following prompt:
+1. Click on **Copilot** symbol and select **Add a slide**.
 
-   ```
+    ![](./Media/e1t2s2.1.png)
+
+1. Give the follwing prompt and click on send.
+
+     ```
    Use question 1 as the icebreaker, and generate a slide that includes a complementary image. Insert this slide as the first slide in the presentation. 
    ```
 
-    ![](./Media/ms1l20.png)   
+   ![](./Media/e1t2s2.2.png)
+
+1. You will be noticed one more slide has added.
+
+    ![](./Media/e1t2s33.png)
 
     Now, you've got a great way to start a conversation among your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
@@ -157,14 +161,14 @@ In this task, you will use Copilot in PowerPoint to add or replace images on you
    Replace the image on the Title slide with an image of a person sipping a warm cup of tea. 
    ```
 
-    - Select one image **(2)** and then **insert (3)**
+    - Once prompt has given in chat you will get an image, please select on **Insert** option.
 
-      ![](./Media/ms1l22.png)    
+        ![](./Media/102.png)
 
-1. Copilot opens the **Designer** feature and creates and displays an image that matches your request. Select one design **(1)**. Delete the original image and edit the new one to best fit the space in the slide **(2)**.
+1. Resize the image as shown in below.
 
-    ![](./Media/ms1l23.png)
-
+    ![](./Media/103.png)
+    
 ### Task 4: Edit the text
 
 In this task, you will use Copilot in PowerPoint to refine and improve the text on your slides, making it more concise, engaging, or tailored to your audience.

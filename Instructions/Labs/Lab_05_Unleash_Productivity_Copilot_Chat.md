@@ -54,6 +54,8 @@ In this task, you will use Copilot Chat to research the department you’re appl
 
 1. Review the information provided by Copilot.
 
+    ![](./Media/e5t2s2.png)
+
 ### Task 3 - Generate anticipated questions
 
 In this task, you will use Copilot Chat to generate a list of potential interview questions, helping you anticipate what the interviewer might ask and prepare confident responses.
@@ -68,6 +70,8 @@ In this task, you will use Copilot Chat to generate a list of potential intervie
 
 1. Review and refine the list of questions provided by Copilot.
 
+     ![](./Media/e5t3s2.png)
+
 ### Task 4 - Generate answers
 
 In this task, you will use Copilot Chat to draft personalized answers to the anticipated interview questions, then review and refine them to align with your experiences and the department’s messaging.
@@ -79,6 +83,8 @@ In this task, you will use Copilot Chat to draft personalized answers to the ant
     ```
 
     Because Copilot Chat is an iterative experience, it considers the context of previous chat interactions in the same window.
+
+    ![](./Media/e5t4s2.png)
 
 1. Review and edit the answers provided by Copilot to ensure they align with Contoso's internal messaging and your personal experiences.
 
@@ -92,14 +98,9 @@ In this task, you will use Copilot Chat to compile your interview questions and 
     Create a Word .docx document with this output.```
 
     Copilot generates a new Word document titled **FAQ Document**.
+    ```
 
-1. Open this document to review.
-
-1. Enable editing to verify and updatae the document as necessary. 
-
-1. Select **File > Save As**. Browse and navigate to your OneDrive folder.
-
-1. Save the document as **FAQ Document**.
+    ![](./Media/208.png)
    
 ### Task 6: Send a thank you email using Copilot in Outlook (Optional) 
 
