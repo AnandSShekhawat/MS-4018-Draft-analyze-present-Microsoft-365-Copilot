@@ -8,9 +8,9 @@ Imagine you're a project manager tasked with creating a comprehensive project re
 
 ## Lab Objectives
 
-- Task 1 - Draft your content
-- Task 2 - Convert text to a table
-- Task 3 - Summarize your document
+- Task 1: Draft your content
+- Task 2: Convert text to a table
+- Task 3: Summarize your document
 
 
 ### Lab prerequisites
