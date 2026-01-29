@@ -1,12 +1,12 @@
-# MS-4018: Draft, analyze, and present with Microsoft 365 Copilot
+# MS-4018: Draft, analyse, and present with Microsoft 365 Copilot
 
-Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
+Welcome to your MS-4018: Draft, analyse, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
 
 ### Overall Estimated Timing: 240 Minutes
 
 ## Overview
 
-In this lab, you will explore how Microsoft 365 Copilot can enhance productivity across PowerPoint, Word, Excel, Teams, Outlook, and Copilot Chat. You will learn how to create professional presentations and documents, refine and organize content, and collaborate more effectively with your team. You will also use Copilot to analyze data, generate insights, and make data-driven decisions. Additionally, you will practice drafting professional communications, scheduling meetings, and sharing results with stakeholders. Finally, you will use Copilot Chat to research, prepare, and document interview responses, demonstrating how Copilot supports both daily work and professional growth. Together, these labs provide hands-on experience in using Copilot to streamline work, improve quality, and boost overall productivity.
+In this lab, you will explore how Microsoft 365 Copilot can enhance productivity across PowerPoint, Word, Excel, Teams, Outlook, and Copilot Chat. You will learn how to create professional presentations and documents, refine and organize content, and collaborate more effectively with your team. You will also use Copilot to analyse data, generate insights, and make data-driven decisions. Additionally, you will practice drafting professional communications, scheduling meetings, and sharing results with stakeholders. Finally, you will use Copilot Chat to research, prepare, and document interview responses, demonstrating how Copilot supports both daily work and professional growth. Together, these labs provide hands-on experience in using Copilot to streamline work, improve quality, and boost overall productivity.
 
 ## Objectives
 
@@ -34,7 +34,7 @@ The lab workflow demonstrates how Microsoft 365 Copilot supports productivity ac
 
 - **Content Refinement:** Enhance content by rewriting text, adding visuals, organizing slides, and converting text into tables for better clarity and impact.
 
-- **Data Analysis & Insights:** Use Copilot in Excel to explore datasets, identify trends, create visualizations, analyze correlations, and generate actionable insights.
+- **Data Analysis & Insights:** Use Copilot in Excel to explore datasets, identify trends, create visualizations, analyse correlations, and generate actionable insights.
 
 - **Collaboration & Communication:** Use Copilot in Teams and Outlook to draft, refine, and share messages, schedule meetings, and communicate insights professionally.
 
@@ -54,9 +54,9 @@ The lab workflow demonstrates how Microsoft 365 Copilot supports productivity ac
 
 - **PowerPoint:** Core tool for creating, designing, and presenting visual slide-based presentations.
 
-- **Copilot Integration:** AI-powered assistant embedded in Microsoft 365 apps to summarize content, generate visuals, analyze data, and draft professional text, enhancing productivity and collaboration.
+- **Copilot Integration:** AI-powered assistant embedded in Microsoft 365 apps to summarize content, generate visuals, analyse data, and draft professional text, enhancing productivity and collaboration.
 
-- **Excel:** You will use Copilot in Excel to analyze sales data and identify key trends. You will create visualizations, compare product performance, and uncover correlations. Finally, you will generate and summarize insights to support data-driven decision-making.
+- **Excel:** You will use Copilot in Excel to analyse sales data and identify key trends. You will create visualizations, compare product performance, and uncover correlations. Finally, you will generate and summarize insights to support data-driven decision-making.
 
 - **Teams:** It is a collaboration platform that helps people chat, meet, call, and work together in one place. It allows teams to share files, collaborate in real time, and integrate with Microsoft 365 apps. Teams makes communication and teamwork faster, simpler, and more organized.
 
@@ -129,3 +129,4 @@ Click on **Next** from the lower right corner to move on to the next page.
    ![Start Your Azure Journey](../Media/305.png)
 
 ## Happy Learning !!
+
