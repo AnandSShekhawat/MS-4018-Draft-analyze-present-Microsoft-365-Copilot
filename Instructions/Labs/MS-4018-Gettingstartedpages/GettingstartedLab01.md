@@ -1,6 +1,6 @@
-# MS-4018: Draft, analyze, and present with Microsoft 365 Copilot
+# MS-4018: Draft, analyse, and present with Microsoft 365 Copilot
 
-Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
+Welcome to your MS-4018: Draft, analyse, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
 
 ### Overall Estimated Timing: 45 Minutes
 
@@ -52,7 +52,7 @@ The lab workflow demonstrates how Copilot in PowerPoint assists in automating co
 
 - **PowerPoint:** Core tool for creating, designing, and presenting visual slide-based presentations.
 
-- **Copilot Integration:** AI-powered assistant embedded in Microsoft 365 apps to summarize content, generate visuals, analyze data, and draft professional text, enhancing productivity and collaboration.
+- **Copilot Integration:** AI-powered assistant embedded in Microsoft 365 apps to summarize content, generate visuals, analyse data, and draft professional text, enhancing productivity and collaboration.
 
 
 # Getting Started with lab
