@@ -4,7 +4,7 @@
 
 ## Lab Scenario
 
-Imagine you're a sales manager at Contoso. Your primary responsibility is to analyse sales data and identify trends that can help improve the company's performance. In this hands-on Lab, you'll use Copilot in Excel to explore and analyze various aspects of the sales data for Contoso's Chai products. You'll start by getting an overview of the data and identifying key metrics. Next, you'll analyze sales trends, compare product sales, and calculate total sales. Additionally, you'll examine the relationship between social media engagement and chai sales, and identify any correlations between online searches and sales. Finally, you'll generate insights from your analysis and summarize the key findings.
+Imagine you're a sales manager at Contoso. Your primary responsibility is to analyse sales data and identify trends that can help improve the company's performance. In this hands-on Lab, you'll use Copilot in Excel to explore and analyse various aspects of the sales data for Contoso's Chai products. You'll start by getting an overview of the data and identifying key metrics. Next, you'll analyse sales trends, compare product sales, and calculate total sales. Additionally, you'll examine the relationship between social media engagement and chai sales, and identify any correlations between online searches and sales. Finally, you'll generate insights from your analysis and summarize the key findings.
 
 ## Lab Objectives
 
@@ -12,7 +12,7 @@ Imagine you're a sales manager at Contoso. Your primary responsibility is to ana
 - Task 2: Identify sales trends
 - Task 3: Compare product sales
 - Task 4: Calculate total sales
-- Task 5: Analyze social media engagement
+- Task 5: Analyse social media engagement
 - Task 6: Generate insights
 - Task 7: Send your insights to the team
 
@@ -135,9 +135,9 @@ In this task, you will use Copilot in Excel to calculate and summarize total qua
 
     ![](./Media/207.png)
 
-### Task 5: Analyze social media engagement
+### Task 5: Analyse social media engagement
 
-In this task, you will use Copilot in Excel to analyze the relationship between social media activity and chai sales and identify any meaningful correlations.
+In this task, you will use Copilot in Excel to analyse the relationship between social media activity and chai sales and identify any meaningful correlations.
 
 1. Continue in the opened Copilot pane.
 
@@ -191,7 +191,7 @@ When working in your own environment, you would then send the email to your stak
 
 ### Summary
 
-In this lab, you gained hands-on experience using Microsoft 365 Copilot in Excel to analyze market trends, identify patterns, and extract meaningful insights from your data. You explored how Copilot can assist in interpreting datasets, generating summaries, and visualizing key metrics to support decision-making. By experimenting with various prompts, you enhanced your ability to interact with data more efficiently and intuitively.
+In this lab, you gained hands-on experience using Microsoft 365 Copilot in Excel to analyse market trends, identify patterns, and extract meaningful insights from your data. You explored how Copilot can assist in interpreting datasets, generating summaries, and visualizing key metrics to support decision-making. By experimenting with various prompts, you enhanced your ability to interact with data more efficiently and intuitively.
 
 Continue practicing with different Excel files and prompts to deepen your understanding and maximize the value Copilot brings to your data analysis workflows.
 
