@@ -4,16 +4,16 @@
 
 ## Lab Scenario
 
-Imagine you're interviewing for position at Contoso, a mid-sized media-driven company. You've been communicating with the hiring manager via email. Now, you want to prepare for the interview, learn more about the team you'll be working with, and draft answers to potential questions that you may be asked. This Lab guides you through the steps to ensure you're well-prepared and confident.\
+Imagine you're interviewing for position at Contoso, a mid-sized media-driven company. You've been communicating with the hiring manager via email. Now, you want to prepare for the interview, learn more about the team you'll be working with, and draft answers to potential questions that you may be asked. This Lab guides you through the steps to ensure you're well-prepared and confident.
 
 ## Lab Objectives
 
-- Task 1 - Research the interviewer
-- Task 2 - Research the department
-- Task 3 - Generate anticipated questions
-- Task 4 - Generate answers
-- Task 4 - Generate answers
-- Task 5 - Create an FAQ document
+- Task 1: Research the interviewer
+- Task 2: Research the department
+- Task 3: Generate anticipated questions
+- Task 4: Generate answers
+- Task 4: Generate answers
+- Task 5: Create an FAQ document
 - Task 6: Send a thank you email using Copilot in Outlook (Optional)
 
 
