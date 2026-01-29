@@ -12,7 +12,7 @@ Imagine you're a marketing manager at a company called Contoso. Your team is pre
 - Task 2: Ask Copilot to help you create an icebreaker slide
 - Task 3: Insert an image
 - Task 4: Edit the text
-- Task 6: Send a draft for review (Optional) 
+- Task 5: Send a draft for review (Optional) 
 
 ### Lab prerequisites
 
