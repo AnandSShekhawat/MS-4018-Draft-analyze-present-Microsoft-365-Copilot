@@ -1,6 +1,6 @@
-# MS-4018: Draft, analyze, and present with Microsoft 365 Copilot
+# MS-4018: Draft, analyse, and present with Microsoft 365 Copilot
 
-Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
+Welcome to your MS-4018: Draft, analyse, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
 
 ## Lab 02: Draft, improve, and share your document with Copilot in Word
 
@@ -52,7 +52,7 @@ The lab workflow demonstrates how Copilot in Word assists with drafting, refinin
 
 - **OneDrive**: It is Microsoft’s cloud storage service that lets you store, access, and share files securely from anywhere.
 
-- **Copilot Integration:** AI-powered assistant embedded in Microsoft 365 apps to summarize content, generate visuals, analyze data, and draft professional text, enhancing productivity and collaboration.
+- **Copilot Integration:** AI-powered assistant embedded in Microsoft 365 apps to summarize content, generate visuals, analyse data, and draft professional text, enhancing productivity and collaboration.
 
 
 # Getting Started with lab
