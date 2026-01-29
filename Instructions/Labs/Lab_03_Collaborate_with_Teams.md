@@ -9,8 +9,8 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 ## Lab Objectives
 
-- Task 1 - Write an engaging message to introduce your idea
-- Task 2 - Schedule a meeting in Outlook
+- Task 1: Write an engaging message to introduce your idea
+- Task 2: Schedule a meeting in Outlook
 
 
 ### Task 1: Write an engaging message to introduce your idea
