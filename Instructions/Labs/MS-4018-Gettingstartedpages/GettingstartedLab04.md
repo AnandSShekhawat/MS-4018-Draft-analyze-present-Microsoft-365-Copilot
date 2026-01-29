@@ -1,6 +1,6 @@
-# MS-4018: Draft, analyze, and present with Microsoft 365 Copilot
+# MS-4018: Draft, analyse, and present with Microsoft 365 Copilot
 
-Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
+Welcome to your MS-4018: Draft, analyse, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
 
 ## Lab 04: Boost your productivity with data-driven decisions with Copilot in Excel
 
@@ -9,7 +9,7 @@ Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot 
 
 ## Overview
 
-In this lab, you’ll work with Copilot in Excel to analyze Contoso’s Chai products sales data. You’ll explore the dataset, identify key metrics, visualize trends, compare product performance, calculate totals, and analyze correlations with social media engagement. Finally, you’ll generate insights and use Copilot in Outlook to share your findings with the team. This lab demonstrates how Copilot accelerates data analysis, enhances insight generation, and supports collaboration.
+In this lab, you’ll work with Copilot in Excel to analyse Contoso’s Chai products sales data. You’ll explore the dataset, identify key metrics, visualize trends, compare product performance, calculate totals, and analyse correlations with social media engagement. Finally, you’ll generate insights and use Copilot in Outlook to share your findings with the team. This lab demonstrates how Copilot accelerates data analysis, enhances insight generation, and supports collaboration.
 
 ## Objectives
 
@@ -23,7 +23,7 @@ By the end of this lab, you will be able to:
 
 1. **Calculate totals:** Compute total sales for different periods and add calculated columns.
 
-1. **Analyze social media engagement:** Explore correlations between sales and social engagement.
+1. **analyse social media engagement:** Explore correlations between sales and social engagement.
 
 1. **Generate insights:** Summarize key findings to support decision-making.
 
@@ -65,7 +65,7 @@ The lab workflow demonstrates how Copilot in Excel and Outlook assists with anal
 
 - **Outlook:** Platform for sharing insights and communicating results.
 
-- **Copilot Integration:** AI assistant embedded in Excel and Outlook to summarize, visualize, analyze, and draft communications efficiently.
+- **Copilot Integration:** AI assistant embedded in Excel and Outlook to summarize, visualize, analyse, and draft communications efficiently.
 
 # Getting Started with lab
 
