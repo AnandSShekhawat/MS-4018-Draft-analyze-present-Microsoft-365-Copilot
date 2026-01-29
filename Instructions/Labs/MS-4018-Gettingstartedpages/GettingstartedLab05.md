@@ -1,6 +1,6 @@
-# MS-4018: Draft, analyze, and present with Microsoft 365 Copilot
+# MS-4018: Draft, analyse, and present with Microsoft 365 Copilot
 
-Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
+Welcome to your MS-4018: Draft, analyse, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
 
 ## Lab 05: Ace your interview with Copilot Chat
 
