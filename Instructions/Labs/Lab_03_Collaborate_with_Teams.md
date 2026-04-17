@@ -117,7 +117,7 @@ In this task, you will use Copilot in Outlook to find an optimal meeting time an
 
     ![](./Media/ms4018-p4t2p3.png)
   
-1. Review Copilot's suggestion **(1)** and select to **Replace (2)**.
+1. Review Copilot's suggestion and select to **Replace**.
 
     ![](./Media/ms4018-p4t2p4.png)  
 

@@ -16,8 +16,7 @@ Imagine you're interviewing for position at Contoso, a mid-sized media-driven co
 - Task 5: Create an FAQ document
 - Task 6: Send a thank you email using Copilot in Outlook (Optional)
 
-
-### Task 1 - Research the interviewer
+### Task 1: Research the interviewer
 
 In this task, you will use Copilot Chat in Teams to research the interviewer. You’ll gather insights about their role and responsibilities at Contoso, helping you better understand who you’ll be speaking with and prepare more effectively for the interview.
 
@@ -29,21 +28,27 @@ In this task, you will use Copilot Chat in Teams to research the interviewer. Yo
 
    - **Password:** <inject key="AzureAdUserPassword"></inject>
 
-1.  Select the Copilot Chat icon on the left side of the screen.
+1. Select the Copilot Chat icon on the left side of the screen.
+
+    ![](./Media/ms4018-p6t1p1.png)
 
 1. Make sure the toggle at the top of the screen is set to **Web**.
 
-    ![](./Media/ms422.png)
+    ![](./Media/ms4018-p6t1p2.png)
 
 1. Prompt Copilot with:
 
     ```
-    Find information about Allan and their role at Contoso
+    Find information about Allan and their role at Contoso.
     ```
+
+    ![](./Media/ms4018-p6t1p3.png)
 
 1. Review the information provided by Copilot.
 
-### Task 2 - Research the department
+    ![](./Media/ms4018-p6t1p4.png)
+
+### Task 2: Research the department
 
 In this task, you will use Copilot Chat to research the department you’re applying to, gaining insights about the Marketing Innovations Department at Contoso to better understand its focus and functions.
 
@@ -55,9 +60,9 @@ In this task, you will use Copilot Chat to research the department you’re appl
 
 1. Review the information provided by Copilot.
 
-    ![](./Media/e5t2s2.png)
+    ![](./Media/ms4018-p6t2p1.png)
 
-### Task 3 - Generate anticipated questions
+### Task 3: Generate anticipated questions
 
 In this task, you will use Copilot Chat to generate a list of potential interview questions, helping you anticipate what the interviewer might ask and prepare confident responses.
 
@@ -71,25 +76,25 @@ In this task, you will use Copilot Chat to generate a list of potential intervie
 
 1. Review and refine the list of questions provided by Copilot.
 
-     ![](./Media/e5t3s2.png)
+     ![](./Media/ms4018-p6t3p1.png)
 
-### Task 4 - Generate answers
+### Task 4: Generate answers
 
 In this task, you will use Copilot Chat to draft personalized answers to the anticipated interview questions, then review and refine them to align with your experiences and the department’s messaging.
 
 1. In the same Copilot Chat, prompt Copilot to
 
     ```
-    Draft answers for the following questions: [copy and paste list of questions here].
+    Draft answers for the questions in the previous response.
     ```
 
     Because Copilot Chat is an iterative experience, it considers the context of previous chat interactions in the same window.
 
-    ![](./Media/e5t4s2.png)
+    ![](./Media/ms4018-p6t4p1.png)
 
 1. Review and edit the answers provided by Copilot to ensure they align with Contoso's internal messaging and your personal experiences.
 
-### Task 5 - Create an FAQ document
+### Task 5: Create an FAQ document
 
 In this task, you will use Copilot Chat to compile your interview questions and answers into a single FAQ Word document, review and edit it, and then save it to OneDrive for future reference.
 
@@ -98,10 +103,19 @@ In this task, you will use Copilot Chat to compile your interview questions and 
     ```
     Create a Word .docx document with this output.```
 
-    Copilot generates a new Word document titled **FAQ Document**.
-    ```
+1. Copilot generates a new Word document.
 
-    ![](./Media/208.png)
+    ![](./Media/ms4018-p6t5p1.png)
+
+1. Open this document to review. If prompted, log in using the same credentials you provided when you logged in to OneDrive.
+
+    >**Note:** On the **Unable to verify link**, click **Continue anyway**.
+
+    ![](./Media/ms4018-p6t5p2.png)
+
+1. Enable editing to verify and update the document as necessary.
+
+    ![](./Media/ms4018-p6t5p3.png)
    
 ### Task 6: Send a thank you email using Copilot in Outlook (Optional) 
 
@@ -109,13 +123,15 @@ In this task, you will use Copilot in Outlook to draft, personalize, and send a 
 
 1. Open Outlook and select **New email** button to start composing your thank you note.
 
-1. Select the Copilot icon in the email composition window so Copilot can help draft your thank you note.
+1. Select the Copilot icon **(1)** in the email composition window so Copilot can help draft your thank you note.
 
-1. Enter a prompt such as:
+1. Enter the following prompt **(2)** and click **Send (3)** :
 
     ```
     I need help with drafting a thank you note for a recent interview.
     ```
+
+    ![](./Media/ms4018-p6t6p1.png)
 
     Copilot  generates a draft for you.
 
