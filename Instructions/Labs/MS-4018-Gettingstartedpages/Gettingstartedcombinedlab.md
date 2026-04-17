@@ -85,20 +85,20 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
  
-![Access Your VM and Lab Guide](../Media/g39.png)
+![Access Your VM and Lab Guide](../Media/ms4018-gs-envtab.png)
 
 
 ## Utilizing the Split Window Feature
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
  
-![Access Your VM and Lab Guide](../Media/g40.png)
+![Access Your VM and Lab Guide](../Media/ms4018-gs-splittab.png)
 
 ## Managing Your Virtual Machine
  
 Feel free to **start, stop, or restart (2)** your virtual machine as needed from the **Resources (1)** tab. Your experience is in your hands!
  
-![Access Your VM and Lab Guide](../Media/g41.png)
+![Access Your VM and Lab Guide](../Media/ms4018-gs-restab.png)
 
 ## Lab Duration Extension
 
@@ -114,7 +114,6 @@ Feel free to **start, stop, or restart (2)** your virtual machine as needed from
 
 3. If you have not extended the duration prior to when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed.
 
-
 ## Support Contact
  
 The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels explicitly tailored for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
@@ -126,7 +125,7 @@ Learner Support Contacts:
 
 Click on **Next** from the lower right corner to move on to the next page.
 
-   ![Start Your Azure Journey](../Media/305.png)
+   ![Start Your Azure Journey](../Media/ms4018-gs-nextpage.png)
 
 ## Happy Learning !!
 

@@ -37,7 +37,7 @@ In this task, you will use Copilot in Teams to draft, rewrite, and adjust a mess
     - Channel name: Enter **Contoso Connect (4)**
     - Select **Create (5)**
 
-      ![](./Media/ms3l2.png)      
+        ![](./Media/ms4018-p4t1p1.png)      
 
 1. Select **Skip** on **Add members to People and Culture**.
 
@@ -47,33 +47,37 @@ In this task, you will use Copilot in Teams to draft, rewrite, and adjust a mess
 
     ![](./Media/ms3l4.png)
 
-1. Write your message in the box at the bottom of the chat or channel. **Copy and paste** the following text into the dialog box: `Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?` **(1)**
+1. Write your message in the box at the bottom of the chat or channel. **Copy and paste** the following text **(1)** into the dialog box: 
+    
+    ```
+    Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?
+    ```
 
     - Before you post the message, select the **Rewrite with Copilot (2)** icon at the bottom of the message box.
 
-      ![](./Media/ms3l5.png)
+      ![](./Media/ms4018-p4t1p2.png)
 
 1. Choose the **Rewrite** option to generate another version of your message that improves its grammar and style. You can rewrite your message up to 10 times, each time generating a new version. Use the left and right arrows below the text to navigate through versions.
 
-    ![](./Media/ms3l6.png)
+    ![](./Media/ms4018-p4t1p3.png)
 
 1. While this message is adequate, it lacks the enthusiasm you're trying to convey.
 
 1. Select **Adjust** then select from the options Copilot presents to edit and update your message. You can customize the message if it's still not right.
 
-    ![](./Media/ms3l7.png)
+    ![](./Media/ms4018-p4t1p4.png)
 
 1. Select **Custom** from the **Adjust** option.
 
-    ![](./Media/ms3l8.png)
+    ![](./Media/ms4018-p4t1p5.png)
 
 1. Try custom tones like `instructive` or `engaging` **(1)** and then **Send (2)**.
 
-    ![](./Media/ms3l9.png)
+    ![](./Media/ms4018-p4t1p6.png)
 
 1. Select **Replace** when you're satisfied with the new message. If you selected a partial section, only that text updates.
 
-    ![](./Media/ms3l10.png)
+    ![](./Media/ms4018-p4t1p7.png)
 
 1. Once you replace the original message, select **Post**.
 
@@ -95,44 +99,31 @@ In this task, you will use Copilot in Outlook to find an optimal meeting time an
 
 1. Select the **Copilot** icon from the **Home** ribbon to open the Copilot pane.
 
-    ![](./Media/ms3l13.png)
+    ![](./Media/ms4018-p4t2p1.png)
 
 1. Ask Copilot to suggest the best time for the meeting by entering the following prompt **(1)**:
 
    ```
-   Schedule a meeting next monday for 1hr slot based on my availability 
+   Draft a meeting invitation to discuss the upcoming product launch, review the project timeline, and assign tasks. 
    ```
 
-    - Select the suggested time **(2)** and Send
+   ![](./Media/ms4018-p4t2p2.png) 
 
-      ![](./Media/ms3l14.png)  
-      ![](./Media/ms3l15.png)        
+1. Copilot creates a draft of the meeting invite. Review the suggestion then enter the following prompt **(1)** and select **Select (2)**:
 
-1. Review the suggested time.
+    ```
+    Rewrite this email in a professional tone.
+    ```
 
-1. Select the **Draft with Copilot** option.
+    ![](./Media/ms4018-p4t2p3.png)
+  
+1. Review Copilot's suggestion **(1)** and select to **Replace (2)**.
 
-    ![](./Media/ms3l16.png)
+    ![](./Media/ms4018-p4t2p4.png)  
 
-1. Enter the following prompt **(1)** and once done, select **Generate (2)** or press enter on your keyboard.
+1. After you've created your draft, you can continue to prompt Copilot assist you in scheduling the meeting based on your availability next week. Copilot suggests several time slots. You can select the time that best works. Copilot adds the meeting to your calendar. You can then access the meeting details from you calendar and invite attendees, turn on the Facilitator for the meeting, and allow Copilot to reschedule the meeting if conflicts arise.
 
-   ```
-   to discuss the upcoming product launch, review the project timeline, and assign tasks. 
-   ```
-
-    ![](./Media/ms3l17.png)    
-
-1. Copilot will create a draft of the meeting invite **(1)**. Review the suggestion but **don't** select **Keep it**. Instead, enter the following prompt **(2)** and then **Send (3)**:
-
-   ```
-   Rewrite this email in a professional tone. 
-   ```
-
-    ![](./Media/ms3l18.png)      
-
-1. Review Copilot's suggestion **(1)** and select to **Keep it (2)**.
-
-    ![](./Media/ms3l19.png)  
+By using Copilot in Team's capabilities, you can effortlessly draft, rewrite, and adjust messages, gather insights from team chats, and schedule meetings efficiently. Now, you can confidently use these tools to streamline your workflow and achieve your collaboration goals with ease.
 
 ### Summary
 
