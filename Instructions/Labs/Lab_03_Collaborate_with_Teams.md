@@ -98,11 +98,11 @@ In this task, you will use Copilot in Outlook to find an optimal meeting time an
 
     ![](./Media/ms1l28.png) 
 
-1. Select the **Copilot** icon from the **Home** ribbon to open the Copilot pane.
+1. Select the **Copilot** icon from the ribbon to open the Copilot pane.
 
     ![](./Media/ms4018-p4t2p1.png)
 
-1. Ask Copilot to suggest the best time for the meeting by entering the following prompt **(1)**:
+1. Ask Copilot to suggest the best time for the meeting by entering the following prompt **(1)** and then click **Send (2)** :
 
    ```
    Draft a meeting invitation to discuss the upcoming product launch, review the project timeline, and assign tasks. 
@@ -110,7 +110,7 @@ In this task, you will use Copilot in Outlook to find an optimal meeting time an
 
    ![](./Media/ms4018-p4t2p2.png) 
 
-1. Copilot creates a draft of the meeting invite. Review the suggestion then enter the following prompt **(1)** and select **Select (2)**:
+1. Copilot creates a draft of the meeting invite. Review the suggestion then enter the following prompt **(1)** and select **Send (2)**:
 
     ```
     Rewrite this email in a professional tone.
