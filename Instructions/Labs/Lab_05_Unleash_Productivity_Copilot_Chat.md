@@ -8,10 +8,11 @@ Imagine you're interviewing for position at Contoso, a mid-sized media-driven co
 
 ## Lab Objectives
 
+In this lab, you will complete the following tasks:
+
 - Task 1: Research the interviewer
 - Task 2: Research the department
 - Task 3: Generate anticipated questions
-- Task 4: Generate answers
 - Task 4: Generate answers
 - Task 5: Create an FAQ document
 - Task 6: Send a thank you email using Copilot in Outlook (Optional)
@@ -141,6 +142,6 @@ In this task, you will use Copilot in Outlook to draft, personalize, and send a 
 
 ### Summary
 
-In this lab, you explored how Microsoft 365 Copilot Chat in Teams can support you in preparing for a job interview. You walked through a realistic scenario where you're interviewing for a position at Contoso, a mid-sized media-driven company. The lab guided you through using Copilot Chat to research, prepare, and present yourself confidently.
+In this lab, you used Microsoft 365 Copilot Chat in Teams to prepare for a job interview by researching the interviewer and department, generating potential interview questions, and drafting personalized answers. You then compiled the questions and answers into an FAQ document in Word for future reference. Optionally, you used Copilot in Outlook to draft a professional thank-you email, completing a structured and comprehensive interview preparation process.
 
 ### You have successfully completed the Hands-on Lab!

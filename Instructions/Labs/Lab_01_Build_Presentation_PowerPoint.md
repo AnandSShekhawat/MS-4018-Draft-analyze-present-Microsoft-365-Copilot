@@ -194,7 +194,7 @@ In this task, you will use Copilot in PowerPoint to refine and improve the text 
 
 ### Task 5: Organize the presentation
 
-As you're reviewing the presentation, you may find that the topics in your presentation need to be more clearly identified. You can use Copilot in PowerPoint to inject this clarity.
+In this task, you will use Copilot to review and improve the structure and flow of your presentation by applying suggestions that enhance clarity and overall effectiveness.
 
 1. In the Copilot pane, then enter the following prompt **(1)** and then select **Send (2)**:
 

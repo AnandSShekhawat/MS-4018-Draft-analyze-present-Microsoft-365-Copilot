@@ -8,6 +8,8 @@ Imagine you're a project manager tasked with creating a comprehensive project re
 
 ## Lab Objectives
 
+In this lab, you will complete the following tasks:
+
 - Task 1: Draft your content
 - Task 2: Convert text to a table
 - Task 3: Summarize your document
@@ -128,7 +130,7 @@ In this task, you will use Copilot in Word to create a project report from an ex
 
     ![](./Media/ms2l18.png)
 
-### Task 2 - Convert text to a table
+### Task 2: Convert text to a table
 
 In this task, you will use Copilot in Word to transform text or lists into a table, enhancing readability and adding additional columns as needed for clarity.
 
@@ -172,7 +174,7 @@ Let's see this transformation in action.
 
 1. Review the table format and make any necessary adjustments. You can then delete the bulleted list from the Project Milestones and Deadlines section.
 
-### Task 3 - Summarize your document
+### Task 3: Summarize your document
 
 In this task, you will use Copilot in Word to generate a summary of your report, highlighting key points to ensure clarity and prepare the content for sharing or further use.
 

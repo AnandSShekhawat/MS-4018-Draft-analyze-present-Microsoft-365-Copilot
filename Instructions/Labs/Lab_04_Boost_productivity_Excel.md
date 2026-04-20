@@ -8,14 +8,14 @@ Imagine you're a sales manager at Contoso. Your primary responsibility is to ana
 
 ## Lab Objectives
 
+In this lab, you will complete the following tasks:
+
 - Task 1: Explore the data
 - Task 2: Identify sales trends
 - Task 3: Compare product sales
 - Task 4: Calculate total sales
-- Task 5: Analyse social media engagement
-- Task 6: Generate insights
-- Task 7: Send your insights to the team
-
+- Task 5: Generate insights
+- Task 6: Send your insights to the team
 
 ### Lab prerequisites
 

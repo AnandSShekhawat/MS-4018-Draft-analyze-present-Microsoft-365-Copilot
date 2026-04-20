@@ -9,9 +9,10 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 ## Lab Objectives
 
+In this lab, you will complete the following tasks:
+
 - Task 1: Write an engaging message to introduce your idea
 - Task 2: Schedule a meeting in Outlook
-
 
 ### Task 1: Write an engaging message to introduce your idea
 
@@ -87,7 +88,7 @@ In this task, you will use Copilot in Teams to draft, rewrite, and adjust a mess
 
 The team receives your message and is excited to contribute! Everyone contributes ideas and discusses potential issues in the Teams chat.
 
-### Task 2 - Schedule a meeting in Outlook
+### Task 2: Schedule a meeting in Outlook
 
 In this task, you will use Copilot in Outlook to find an optimal meeting time and draft a professional invite, ensuring your team can efficiently collaborate on the Contoso Connect launch.
 
