@@ -40,7 +40,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
     ![](./Media/ms2l2.png)
 
-1. Select **+ Create or Upload (1)** and then select **File upload (2)**.
+1. Select **+ Create or Upload (1)** and then select **Files upload (2)**.
 
     ![](./Media/ms1l3.png)
 
@@ -101,7 +101,7 @@ In this task, you will use Copilot in Word to create a project report from an ex
 
     ![](./Media/ms4018-p3t1p6.png)
 
-1. Select **Auto Rewrite** from the menu. 
+1. Select **Auto rewrite** from the menu. 
 
     ![](./Media/ms4018-p3t1p7.png)
 
@@ -148,7 +148,7 @@ Let's see this transformation in action.
 
     ![](./Media/ms4018-p3t2p2.png)
 
-1. Highlight the list **(1)**. Select the on-canvas **Edit with Copilot (2)** icon to the left of the text.
+1. Highlight the list **(1)**. Select the **Edit with Copilot (2)**.
 
     ![](./Media/ms4018-p3t2p3.png)
 

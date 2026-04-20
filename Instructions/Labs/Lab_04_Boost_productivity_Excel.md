@@ -43,7 +43,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
     ![](./Media/ms2l2.png)
 
-1. Select **Create or Upload (1)** and then select **File upload (2)**.
+1. Select **Create or Upload (1)** and then select **Files upload (2)**.
 
     ![](./Media/ms1l3.png)
 
@@ -59,7 +59,7 @@ In this task, you will use Copilot in Excel to review the dataset, generate a su
 
 1. Open the sample file (Contoso Chai Tea market trends 2023.xlsx) you uploaded to your OneDrive.
 
-1. Select the **Copilot** icon on the **Home** to open the Copilot pane.
+1. Select the **Copilot (2)** icon on the **Home (1)** to open the Copilot pane.
 
     ![](./Media/ms4018-p5t1p1.png)
 
@@ -115,7 +115,7 @@ In this task, you will use Copilot in Excel to visualize total chai sales over t
 
 1. If you added the line chart, review the chart then return to Sheet 1.
 
-    ![](./Media/ms4018-p5t2p2.png)
+    ![](./Media/ms4018-p5t2p3.png)
 
 ### Task 3: Compare product sales
 

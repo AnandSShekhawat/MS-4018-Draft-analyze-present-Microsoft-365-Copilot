@@ -52,7 +52,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
     ![](./Media/ms4018-p2t1p1.png)
 
-1. Select **+ Create or Upload (1)** and then select **File upload (2)**.
+1. Select **+ Create or Upload (1)** and then select **Files upload (2)**.
 
     ![](./Media/lp6.png)
 
@@ -70,9 +70,9 @@ In this task, you will use Copilot in PowerPoint to generate a draft presentatio
 
 1. Select **Apps (1)** and then select **PowerPoint (2)** to start a new presentation.
 
-    ![](./Media/ms4018-p2t1p1.png)
+    ![](./Media/ms4018-p2t1p2.png)
 
-1. Select **Create a new presentation**.
+1. Select **+ Create a new presentation**.
 
     ![](./Media/ms1l6.png)
 
@@ -110,7 +110,7 @@ In this task, you will use Copilot in PowerPoint to generate a draft presentatio
 
 In this task, you will use Copilot in PowerPoint to brainstorm icebreaker questions for a global audience and generate a slide with an image to engage participants at the start of your presentation.
 
-1. Let's first change the view in PowerPoint, select **View (1)-> Normal (2)**.
+1. Let's first change the view in PowerPoint, select **View (1) -> Normal (2)**.
 
     ![](./Media/e1t2s1.png)
 
@@ -169,6 +169,8 @@ In this task, you will use Copilot in PowerPoint to add or replace images on you
 1. Copy and paste the new image to replace the default image on the **History of Chai Tea** slide, or Copilot by itself will insert the image directly into the slide.
 
     ![](./Media/ms4018-p2t2p8.png)
+
+    > **Note:** `Copilot may automatically insert or replace the image directly on the slide after generating it. If this happens, you do not need to manually copy and paste the image. Simply review the inserted image and proceed to the next step.`
     
 ### Task 4: Edit the text
 
