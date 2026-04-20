@@ -8,10 +8,11 @@ Imagine you're a project manager tasked with creating a comprehensive project re
 
 ## Lab Objectives
 
+In this lab, you will complete the following tasks:
+
 - Task 1: Draft your content
 - Task 2: Convert text to a table
 - Task 3: Summarize your document
-
 
 ### Lab prerequisites
 
@@ -33,13 +34,13 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Select **Apps (1)** and then select **Onedrive (2)**.   
 
-    ![](./Media/ms1l2.png)
+    ![](./Media/ms4018-p3t1p1.png)
 
 1. Navigate to **My files**.
 
     ![](./Media/ms2l2.png)
 
-1. Select **Create or Upload (1)** and then select **File upload (2)**.
+1. Select **+ Create or Upload (1)** and then select **File upload (2)**.
 
     ![](./Media/ms1l3.png)
 
@@ -58,9 +59,9 @@ In this task, you will use Copilot in Word to create a project report from an ex
 
 1. Select **Apps (1)** and then select **Word (2)** to start a new presentation.
 
-    ![](./Media/ms2l4.png)
+    ![](./Media/ms4018-p3t1p2.png)
 
-1. Select **Create blank document**.
+1. Select **+ Create blank document**.
 
     ![](./Media/ms2l5.png)
 
@@ -68,47 +69,41 @@ In this task, you will use Copilot in Word to create a project report from an ex
 
     ![](./Media/ms2l29.png)
 
-1. Enter the following prompt **(2)**:
+1. Enter the following prompt **(1)**:
 
    ```
    Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource. 
    ```
 
-   - Select **+ (2)** to add the file
+1. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx** and click on **Send (2)**. 
 
-     ![](./Media/ms2l6.png) 
+    ![](./Media/ms4018-p3t1p3.png)
 
-1. select **Attach cloud files**.
+    >**Note:** Alternately, you can select Add content and the file from the dropdown list once it is available in OneDrive.
 
-    ![](./Media/e2t1s6.png)
+    - Select **+ (1)** to add the file 
 
-1. Click **Upload (1)** icon and then 
+    - Select **Attach cloud files (2)**.
 
-1. Navigate to **My files (1)**, select **Market Analysis Report for Mystic Spice Premium Chai Tea.docx (2)** and then **Select (3)**.     
+        ![](./Media/ms4018-p3t1p4.png) 
 
-    ![](./Media/e2t1s8.png)
+    - Navigate to **My files (1)**, select **Market Analysis Report for Mystic Spice Premium Chai Tea.docx (2)** and then **Select (3)**.     
 
-1. Select **Send**.
+        ![](./Media/ms4018-p3t1p5.png) 
 
-    ![](./Media/e2t1s9.png)
+1. Review the drafted content and select **Keep it**.
 
-1. Review the drafted content.
-
-    ![](./Media/ms2l11.png)
-
-1. Select **Insert (1)** to paste the content to the blank document **(2)**.
-
-    ![](./Media/e2t1s11.png)
+    > **Note:** If Copilot takes too long or times out while generating the executive summary or inserting content into the document, try running the prompt again or ask Copilot to generate the content in chat first and then copy and paste it into the document manually. This helps avoid delays caused by temporary responsiveness issues in the Word editor.
 
 1. As you're reviewing the content of your document, you may find that some text needs to be edited or rewritten. The `Product Description section seems to be fairly short, and technical`. Let's edit the text so it's more engaging for our readers.
 
-1. Highlight the paragraph **(1)**, select the **Copilot (2)** icon that appears to the left of the text.
+1. Highlight the paragraph **(1)**, select the **Edit with Copilot (2)**.
 
-    ![](./Media/ms2l13.png)
+    ![](./Media/ms4018-p3t1p6.png)
 
 1. Select **Auto Rewrite** from the menu. 
 
-    ![](./Media/ms2l14.png)
+    ![](./Media/ms4018-p3t1p7.png)
 
 1. Copilot generates several options. Review each:
 
@@ -123,7 +118,7 @@ In this task, you will use Copilot in Word to create a project report from an ex
 
     ![](./Media/ms2l16.png)
 
-1. Enter the following prompt **(1)** and then **Send (2)**:
+1. Enter the following prompt **(1)** and then **Generate (2)**:
 
    ```
    Rewrite this paragraph to add more detail about the product. The tone of this paragraph should be professional and engaging. 
@@ -135,7 +130,7 @@ In this task, you will use Copilot in Word to create a project report from an ex
 
     ![](./Media/ms2l18.png)
 
-### Task 2 - Convert text to a table
+### Task 2: Convert text to a table
 
 In this task, you will use Copilot in Word to transform text or lists into a table, enhancing readability and adding additional columns as needed for clarity.
 
@@ -145,47 +140,41 @@ Let's see this transformation in action.
 
     ![](./Media/ms2l19.png)
 
-1. Select **Keep writing this**.
+1. Ask Copilot to `Add a list of project milestones and their deadlines` **(1)** and then select **Generate (2)**.
 
-    ![](./Media/e2t2s1.1.png)
-
-1. Ask Copilot to `Add a list of project milestones and their deadlines` **(1)** and then **Send (2)**.
-
-    ![](./Media/ms2l20.png)
+    ![](./Media/ms4018-p3t2p1.png)
 
 1. Select **Keep it** to add the section to your Project Plan.
 
-    ![](./Media/ms2l21.png)
+    ![](./Media/ms4018-p3t2p2.png)
 
-1. Highlight the list **(1)**. Select the on-canvas **Copilot (2)** icon to the left of the text.
+1. Highlight the list **(1)**. Select the on-canvas **Edit with Copilot (2)** icon to the left of the text.
 
-    ![](./Media/ms2l22.png)
+    ![](./Media/ms4018-p3t2p3.png)
 
-1. Select **Visualize as a table** from the menu. 
+1. Enter the prompt `Visualize this as a table` **(1)** and then click on **Generate (2)**.
 
-    ![](./Media/ms2l23.png)
+    ![](./Media/ms4018-p3t2p4.png)
 
 1. The result looks great, overall, but let's make sure there's a column for when the task is successfully completed.
 
-    ![](./Media/ms2l24.png)
+    ![](./Media/ms4018-p3t2p5.png)
 
-1. Enter the following prompt **(1)** and then **Send (2)**:
+1. Enter the following prompt **(1)** and then **Generate (2)**:
 
-   ```
-   Add a third column, Task Completed, to the table. 
-   ```
+    ```
+    Add a third column, Task Completed, to the table. 
+    ```
 
-    ![](./Media/ms2l25.png)   
+    ![](./Media/ms4018-p3t2p6.png)  
 
-1. Select **Keep it (1)** to insert the table into your document. Make sure **Task Completed (2)** is added.
+1. Select **Keep it** to insert the table into your document. Make sure **Task Completed** column is added.
 
-    ![](./Media/ms2l-26.png)
+    ![](./Media/ms4018-p3t2p7.png)
 
-1. Review the table format and make any necessary adjustments.
+1. Review the table format and make any necessary adjustments. You can then delete the bulleted list from the Project Milestones and Deadlines section.
 
-    ![](./Media/ms2l27.png)
-
-### Task 3 - Summarize your document
+### Task 3: Summarize your document
 
 In this task, you will use Copilot in Word to generate a summary of your report, highlighting key points to ensure clarity and prepare the content for sharing or further use.
 
@@ -195,13 +184,15 @@ In this task, you will use Copilot in Word to generate a summary of your report,
 
 1. Enter the following prompt:
 
-   ```
-   Summarize this document. Highlight the top three points made. 
-   ```
+    ```
+    Summarize this document. Highlight the top three points made. 
+    ```
 
-    ![](./Media/ms2l28.png)   
+    ![](./Media/ms4018-p3t2p8.png)
 
-1. Review the generated summary, and select **Insert** if you want to include the entire summary in your document. You can also highlight any portion of the text, then copy and paste it into your document.
+1. Review the generated summary, and select **Add to doc** (the plus sign) if you want to include the entire summary in your document. You can also highlight any portion of the text, then copy and paste it into your document.
+
+    ![](./Media/ms4018-p3t2p9.png)
 
    >**Note**: The text Copilot generates is inserted at your cursor's location in the document. Make sure you have navigated to the end of the document before you select to insert the content.
 

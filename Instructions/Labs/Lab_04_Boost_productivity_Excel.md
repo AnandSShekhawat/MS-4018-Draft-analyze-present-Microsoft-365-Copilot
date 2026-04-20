@@ -8,14 +8,14 @@ Imagine you're a sales manager at Contoso. Your primary responsibility is to ana
 
 ## Lab Objectives
 
+In this lab, you will complete the following tasks:
+
 - Task 1: Explore the data
 - Task 2: Identify sales trends
 - Task 3: Compare product sales
 - Task 4: Calculate total sales
-- Task 5: Analyse social media engagement
-- Task 6: Generate insights
-- Task 7: Send your insights to the team
-
+- Task 5: Generate insights
+- Task 6: Send your insights to the team
 
 ### Lab prerequisites
 
@@ -37,7 +37,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Select **Apps (1)** and then select **Onedrive (2)**.   
 
-    ![](./Media/ms1l2.png)
+    ![](./Media/ms4018-p3t1p1.png)
 
 1. Navigate to **My files**.
 
@@ -57,19 +57,43 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 In this task, you will use Copilot in Excel to review the dataset, generate a summary, and identify the key metrics that will guide your analysis.
 
-1. Open the sample file you downloaded from your OneDrive.
+1. Open the sample file (Contoso Chai Tea market trends 2023.xlsx) you uploaded to your OneDrive.
 
 1. Select the **Copilot** icon on the **Home** to open the Copilot pane.
 
-1. Enter the following prompt:
+    ![](./Media/ms4018-p5t1p1.png)
+
+    > **Note:** Use the **Edit** option to control how Copilot responds. You can choose **Allow editing** to let Copilot directly modify the document, or select **Chat only** if you prefer Copilot to provide suggestions in chat without making changes to the document.
+
+    ![](./Media/ms4018-p5t1p6(1).png)
+
+1. Enter the following prompt **(1)** and then select **Send (2)**:
    
     ```
     Summarize the dataset and provide an overview of the key metrics.
     ```
 
-    >**Note**: Copilot provides a detailed overview along with the key metrics.
+    ![](./Media/ms4018-p5t1p2.png)
 
-    ![](./Media/ms414.png)
+    ![](./Media/ms4018-p5t1p3.png)
+
+    > **Note:** When you ask Copilot to summarize the dataset, it may automatically create and insert a structured table (such as totals, averages, minimums, and maximums) in the worksheet, even if not explicitly requested. This behavior depends on the selected mode, if **Allow editing** is enabled, Copilot can directly add or modify content in the workbook; if **Chat only** is selected, it will provide the summary in chat without making changes to the worksheet.
+
+    ![](./Media/ms4018-p5t1p4.png)
+
+1. Copilot responds with a detailed set of important takeaways, essentially an executive summary, of the data. It shows patterns and interpretations of the data, and recommended next steps. From this response, you can prompt Copilot to:
+
+    ```
+    Create a table showing the key patterns in the data.
+    ```
+
+    ![](./Media/ms4018-p5t1p5.png)
+
+1. Copilot creates tables containing additional columns that shows key patterns.
+
+    ![](./Media/ms4018-p5t1p6.png)
+
+1. Review the table.
 
 ### Task 2: Identify sales trends
 
@@ -80,16 +104,18 @@ In this task, you will use Copilot in Excel to visualize total chai sales over t
 1. Prompt Copilot with:
 
     ```
-    +++Show a line chart of Total Chai Sales (units) over the months.+++
+    Show a line chart of Total Chai Sales (units) over the months.
     ```
 
-    ![](./Media/201.png)
+    ![](./Media/ms4018-p5t2p1.png)
 
-1. Review Copilot's response, and if you want, add the to a new sheet.
+1. Review Copilot’s response, and if needed, click **+ Add to new sheet** to insert the chart into a new worksheet.
 
-    ![](./Media/202.png)
+    ![](./Media/ms4018-p5t2p2.png)
 
-1. If you added a new PivotChart, review the chart then return to Sheet 1.
+1. If you added the line chart, review the chart then return to Sheet 1.
+
+    ![](./Media/ms4018-p5t2p2.png)
 
 ### Task 3: Compare product sales
 
@@ -100,24 +126,24 @@ In this task, you will use Copilot in Excel to compare Artisanal and Premade Cha
 1. Prompt Copilot with:
 
     ```
-    +++Create a bar chart comparing Artisanal Chai Sales (units) and Premade Chai Sales (units) for each month.+++
+    Create a bar chart comparing Artisanal Chai Sales (units) and Premade Chai Sales (units) for each month.
     ```
 
-    ![](./Media/203.png)
+    ![](./Media/ms4018-p5t3p1.png)
 
-1. Copilot displays the bar chart. Select **Add to a new sheet**.
+1. Copilot displays the bar chart. Select **+ Add to new sheet**.
 
-   ![](./Media/205.png)
+   ![](./Media/ms4018-p5t3p2.png)
 
 1. Once you've reviewed the bar chart results, return to Sheet 1.
    
 1. Summer months can see a wide variance of sales. To understand what type of tea is selling best, you can ask Copilot to determine which product category performed better overall by entering the following prompt:
 
-   ```
-    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer. give it in table and that should get insert in the another sheet+++
-   ```
+    ```
+    Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.
+    ```
 
-   ![](./Media/206.png)
+   ![](./Media/ms4018-p5t3p3.png)
 
 ### Task 4: Calculate total sales
 
@@ -127,65 +153,53 @@ In this task, you will use Copilot in Excel to calculate and summarize total qua
 
 1. Prompt Copilot with:
 
-   ```
-    +++Calculate the total sales per quarter. give it in table and that should get insert in the another sheet+++
-   ```
-
-1. Select **Add to new sheet**.
-
-    ![](./Media/207.png)
-
-### Task 5: Analyse social media engagement
-
-In this task, you will use Copilot in Excel to analyse the relationship between social media activity and chai sales and identify any meaningful correlations.
-
-1. Continue in the opened Copilot pane.
-
-1. Determine if there's a correlation between online searches and chai sales by entering the following prompt:
-
     ```
-    +++Identify any correlations between Online Searches for Chai and Total Chai Sales (units) that should get insert in the another sheet+++
+    Calculate the total sales per quarter.
     ```
 
-    >**Note**: Copilot generates a chart showing trends. Additionally, Copilot responds with text indicating there's a high correlation, allowing you instant insight to complicated sales data.
+1. Select **+ Add to new sheet**.
 
-1. Select **Add to sheet** to include these insights to your table.
+    ![](./Media/ms4018-p5t4p1.png)
 
-### Task 6: Generate insights
+1. Review the total sales, then return to Sheet 1.
+
+### Task 5: Generate insights
 
 In this task, you will use Copilot in Excel to generate a summary of key insights from your analysis to support data-driven decision-making.
 
 1. In the opened Copilot pane, enter the following prompt:
 
     ```
-    +++Provide a summary of the key insights from the analysis of the Contoso Chai Tea market trends data.+++
+    Provide a summary of the key insights from the analysis of the Contoso Chai Tea market trends data.
     ```
 
-### Task 7: Send your insights to the team
+    ![](./Media/ms4018-p5t5p1.png)
+
+### Task 6: Send your insights to the team
 
 In this task, you will use Copilot in Outlook to draft and share a professional email summarizing the key insights with your stakeholders.
 
-1. **Copy** the text response generated by Copilot in Excel.
+1. **Copy** the text response generated by Copilot in Excel by highlighting the text and selecting the **Copy response** icon below the response.
 
-1. Open Microsoft Outlook and select **New email**.
+1. Open Microsoft Outlook by entering the URL <https://outlook.office.com> and select **New email**.
 
 1. Paste the response into the email.
 
-1. Select the whole respomse in the email window
+1. Select all the text and then click on the **Open Copilot** icon in the email window.
 
-1. Select the **Copilot** icon in the email window.
+    ![](./Media/ms4018-p5t6p1.png)
 
-    ![](./Media/ms421.png)
-
-1. Enter the following prompt:
+1. Enter the following prompt **(1)** and click **Generate (2)**:
 
     ```
     Draft an email to my team summarizing the key points from our recent analysis on Contoso Chai Tea market trends.
     ```
 
+    ![](./Media/ms4018-p5t6p2.png)
+
 1. Review the draft provided by Copilot and select **Replace** to include the content in your email.
 
-    ![](./Media/ms420.png)
+    ![](./Media/ms4018-p5t6p3.png)
 
 When working in your own environment, you would then send the email to your stakeholders.
 
