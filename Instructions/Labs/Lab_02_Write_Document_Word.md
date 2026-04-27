@@ -222,4 +222,4 @@ In this lab, you explored how Microsoft 365 Copilot in Word can help draft, impr
 
 ### You have successfully completed the lab. Click Next >> to proceed.
 
-![Start Your Azure Journey](../Media/ms4018-gs-nextpage.png)
+![Start Your Azure Journey](./Media/ms4018-gs-nextpage.png)

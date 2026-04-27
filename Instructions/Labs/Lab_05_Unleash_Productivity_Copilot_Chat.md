@@ -162,4 +162,4 @@ In this lab, you used Microsoft 365 Copilot Chat in Teams to prepare for a job i
 
 ### You have successfully completed the lab. Click Next >> to proceed.
 
-![Start Your Azure Journey](../Media/ms4018-gs-nextpage.png)
+![Start Your Azure Journey](./Media/ms4018-gs-nextpage.png)

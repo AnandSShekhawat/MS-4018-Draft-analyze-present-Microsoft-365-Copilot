@@ -235,4 +235,4 @@ Continue practicing with different Excel files and prompts to deepen your unders
 
 ### You have successfully completed the lab. Click Next >> to proceed.
 
-![Start Your Azure Journey](../Media/ms4018-gs-nextpage.png)
+![Start Your Azure Journey](./Media/ms4018-gs-nextpage.png)
