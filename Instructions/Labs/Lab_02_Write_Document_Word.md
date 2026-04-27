@@ -220,6 +220,6 @@ In this task, you will use Copilot in Word to generate a summary of your report,
 
 In this lab, you explored how Microsoft 365 Copilot in Word can help draft, improve, and share a professional document. You created a project report using Copilot prompts, rewrote and refined content, and converted text into a table for better readability. Finally, you summarized the document and prepared it for sharing, experiencing how Copilot streamlines writing and collaboration.
 
-### You have successfully completed the lab. Click Next >> to proceed.
+### You have successfully completed the lab. Click **Next >>** to proceed.
 
-![Start Your Azure Journey](../Media/ms4018-gs-nextpage.png)
+![Start Your Azure Journey](./Media/ms4018-gs-nextpage.png)
