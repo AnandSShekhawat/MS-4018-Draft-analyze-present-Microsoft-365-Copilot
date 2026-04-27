@@ -10,7 +10,7 @@ In this lab, you will explore how Microsoft 365 Copilot can enhance productivity
 
 ## Objectives
 
-By the end of this lab, you will be able to:
+By the end of this lab, you will be able to complete the following objectives:
 
 - Build a presentation from start to finish with Copilot in PowerPoint.
 
@@ -44,7 +44,7 @@ The lab workflow demonstrates how Microsoft 365 Copilot supports productivity ac
 
 ## Architecture Diagram
 
-![](../Media/arc-1.png)
+![](../Media/arch-combined.png)
 
 ## Explanation of Components
 
@@ -62,7 +62,7 @@ The lab workflow demonstrates how Microsoft 365 Copilot supports productivity ac
 
 # Getting Started with lab
 
-Welcome to your Lab 01: Creating a Build a presentation from start to finish with Copilot in PowerPoint lab! We've prepared a seamless environment for you to explore and learn how to transform business content into an engaging, client-ready presentation using Copilot. Let's begin by making the most of this experience:
+Welcome to the MS-4018: Draft, analyse, and present with Microsoft 365 Copilot workshop! We've prepared a seamless environment for you to explore and learn how to transform business content into an engaging, client-ready presentation using Copilot. Let's begin by making the most of this experience:
 
 
 ## Accessing Your Lab Environment

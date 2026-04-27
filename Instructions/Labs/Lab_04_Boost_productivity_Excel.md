@@ -17,7 +17,7 @@ In this lab, you will complete the following tasks:
 - Task 5: Generate insights
 - Task 6: Send your insights to the team
 
-### Lab prerequisites
+## Lab prerequisites
 
 Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that reference this file. You should have already uploaded it to OneDrive during the lab setup process, but if you need to download it again, you can do so here:
 
@@ -53,7 +53,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Make sure the file uploaded.
 
-### Task 1: Explore the data
+## Task 1: Explore the data
 
 In this task, you will use Copilot in Excel to review the dataset, generate a summary, and identify the key metrics that will guide your analysis.
 
@@ -95,7 +95,15 @@ In this task, you will use Copilot in Excel to review the dataset, generate a su
 
 1. Review the table.
 
-### Task 2: Identify sales trends
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+- Hit the Validate button for the corresponding task. You will receive a success message. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="496420d0-071c-4b60-a20e-1f6343d2e322" />
+
+## Task 2: Identify sales trends
 
 In this task, you will use Copilot in Excel to visualize total chai sales over time and identify key patterns and trends.
 
@@ -117,7 +125,15 @@ In this task, you will use Copilot in Excel to visualize total chai sales over t
 
     ![](./Media/ms4018-p5t2p3.png)
 
-### Task 3: Compare product sales
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+- Hit the Validate button for the corresponding task. You will receive a success message. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="628501ae-768a-43b8-988d-65b5ae5c7d9f" />
+
+## Task 3: Compare product sales
 
 In this task, you will use Copilot in Excel to compare Artisanal and Premade Chai sales using visualizations and summaries to determine overall performance.
 
@@ -145,7 +161,7 @@ In this task, you will use Copilot in Excel to compare Artisanal and Premade Cha
 
    ![](./Media/ms4018-p5t3p3.png)
 
-### Task 4: Calculate total sales
+## Task 4: Calculate total sales
 
 In this task, you will use Copilot in Excel to calculate and summarize total quarterly sales by combining Artisanal and Premade Chai sales data.
 
@@ -163,7 +179,7 @@ In this task, you will use Copilot in Excel to calculate and summarize total qua
 
 1. Review the total sales, then return to Sheet 1.
 
-### Task 5: Generate insights
+## Task 5: Generate insights
 
 In this task, you will use Copilot in Excel to generate a summary of key insights from your analysis to support data-driven decision-making.
 
@@ -175,7 +191,7 @@ In this task, you will use Copilot in Excel to generate a summary of key insight
 
     ![](./Media/ms4018-p5t5p1.png)
 
-### Task 6: Send your insights to the team
+## Task 6: Send your insights to the team
 
 In this task, you will use Copilot in Outlook to draft and share a professional email summarizing the key insights with your stakeholders.
 
@@ -203,10 +219,20 @@ In this task, you will use Copilot in Outlook to draft and share a professional 
 
 When working in your own environment, you would then send the email to your stakeholders.
 
-### Summary
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+- Hit the Validate button for the corresponding task. You will receive a success message. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="35856953-82ac-4211-b47e-b177f59ee436" />
+
+## Summary
 
 In this lab, you gained hands-on experience using Microsoft 365 Copilot in Excel to analyse market trends, identify patterns, and extract meaningful insights from your data. You explored how Copilot can assist in interpreting datasets, generating summaries, and visualizing key metrics to support decision-making. By experimenting with various prompts, you enhanced your ability to interact with data more efficiently and intuitively.
 
 Continue practicing with different Excel files and prompts to deepen your understanding and maximize the value Copilot brings to your data analysis workflows.
 
-### You have successfully completed the Hands-on Lab!
+### You have successfully completed the lab. Click Next >> to proceed.
+
+![Start Your Azure Journey](../Media/ms4018-gs-nextpage.png)
