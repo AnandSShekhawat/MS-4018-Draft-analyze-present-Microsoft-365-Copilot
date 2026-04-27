@@ -6,7 +6,6 @@
 
 Imagine you're a manager at Contoso. Your team relies on effective communication to collaborate and achieve goals. You want to rally the team behind a new idea for the Contoso Connect product launch, and need to send a message to your team about how to incorporate this idea before the product launch deadline. Use Copilot to draft, rewrite, and adjust your message to ensure it's clear, concise, and professional.
 
-
 ## Lab Objectives
 
 In this lab, you will complete the following tasks:
@@ -14,7 +13,7 @@ In this lab, you will complete the following tasks:
 - Task 1: Write an engaging message to introduce your idea
 - Task 2: Schedule a meeting in Outlook
 
-### Task 1: Write an engaging message to introduce your idea
+## Task 1: Write an engaging message to introduce your idea
 
 In this task, you will use Copilot in Teams to draft, rewrite, and adjust a message introducing your idea for the Contoso Connect launch, ensuring it is clear, engaging, and professional for your team.
 
@@ -88,7 +87,15 @@ In this task, you will use Copilot in Teams to draft, rewrite, and adjust a mess
 
 The team receives your message and is excited to contribute! Everyone contributes ideas and discusses potential issues in the Teams chat.
 
-### Task 2: Schedule a meeting in Outlook
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+- Hit the Validate button for the corresponding task. You will receive a success message. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="ac4f0700-73b9-4576-8dbe-57b852ffc343" />
+
+## Task 2: Schedule a meeting in Outlook
 
 In this task, you will use Copilot in Outlook to find an optimal meeting time and draft a professional invite, ensuring your team can efficiently collaborate on the Contoso Connect launch.
 
@@ -126,11 +133,18 @@ In this task, you will use Copilot in Outlook to find an optimal meeting time an
 
 By using Copilot in Team's capabilities, you can effortlessly draft, rewrite, and adjust messages, gather insights from team chats, and schedule meetings efficiently. Now, you can confidently use these tools to streamline your workflow and achieve your collaboration goals with ease.
 
-### Summary
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+- Hit the Validate button for the corresponding task. You will receive a success message. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="b2bec1d4-fe29-46fc-9619-8a68bdd17e29" />
+
+## Summary
 
 In this lab, you explored how Microsoft 365 Copilot in Teams and Outlook can help draft, refine, and share professional communications. You created an engaging message for your team, used Copilot to rewrite and adjust it for clarity and tone, and scheduled a meeting using Copilot to find the best time and draft a polished invite. Finally, you experienced how Copilot streamlines collaboration and team communication for effective project management.
 
-### You have successfully completed the Hands-on Lab!    
+### You have successfully completed the lab. Click Next >> to proceed.
 
-
-
+![Start Your Azure Journey](../Media/ms4018-gs-nextpage.png)

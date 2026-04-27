@@ -16,7 +16,7 @@ In this lab, you'll perform the following tasks:
 - Task 4: Edit the text
 - Task 5: Organize the presentation
 
-### Lab prerequisites
+## Lab prerequisites
 
 Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that reference this file. You should have already uploaded it to OneDrive during the lab setup process, but if you need to download it again, you can do so here and upload in to one drive.
 
@@ -62,7 +62,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Make sure the file uploaded.
 
-### Task 1: Create a new presentation based on a Word document
+## Task 1: Create a new presentation based on a Word document
 
 In this task, you will use Copilot in PowerPoint to generate a draft presentation by uploading the Chai Tea promotion plan Word document and applying a design template.
 
@@ -106,7 +106,15 @@ In this task, you will use Copilot in PowerPoint to generate a draft presentatio
 
 1. While this is a great start, you want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
 
-### Task 2: Ask Copilot to help you create an additional slide
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+- Hit the Validate button for the corresponding task. You will receive a success message. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="c7c19140-deca-48de-9b4e-66fb4cc492ac" />
+
+## Task 2: Ask Copilot to help you create an additional slide
 
 In this task, you will use Copilot in PowerPoint to brainstorm icebreaker questions for a global audience and generate a slide with an image to engage participants at the start of your presentation.
 
@@ -148,7 +156,16 @@ In this task, you will use Copilot in PowerPoint to brainstorm icebreaker questi
 
 1. Now you've added depth to your presentation, and it's a great way to increase interest from your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
-### Task 3: Insert an image
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+- Hit the Validate button for the corresponding task. You will receive a success message. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="3b7e6a5e-d11b-4961-bef9-ecdea52271b9" />
+
+
+## Task 3: Insert an image
 
 In this task, you will use Copilot in PowerPoint to add or replace images on your slides, either from the corporate library or generated based on your ideas, to better align with your presentation’s content.
 
@@ -171,8 +188,16 @@ In this task, you will use Copilot in PowerPoint to add or replace images on you
     ![](./Media/ms4018-p2t2p8.png)
 
     > **Note:** `Copilot may automatically insert or replace the image directly on the slide after generating it. If this happens, you do not need to manually copy and paste the image. Simply review the inserted image and proceed to the next step.`
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+- Hit the Validate button for the corresponding task. You will receive a success message. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="2acf4dfd-f2fa-44ca-9d58-18af158e82bd" />
     
-### Task 4: Edit the text
+## Task 4: Edit the text
 
 In this task, you will use Copilot in PowerPoint to refine and improve the text on your slides, making it more concise, engaging, or tailored to your audience.
 
@@ -194,7 +219,7 @@ In this task, you will use Copilot in PowerPoint to refine and improve the text 
 
     ![](./Media/ms4018-p2t4p3.png)
 
-### Task 5: Organize the presentation
+## Task 5: Organize the presentation
 
 In this task, you will use Copilot to review and improve the structure and flow of your presentation by applying suggestions that enhance clarity and overall effectiveness.
 
@@ -210,8 +235,10 @@ In this task, you will use Copilot to review and improve the structure and flow 
 
     ![](./Media/ms4018-p2t5p2.png)
 
-### Summary
+## Summary
 
 In this lab, you explored how Microsoft 365 Copilot in PowerPoint can help build a professional presentation from start to finish. You created a new presentation from a Word document, added an icebreaker slide, inserted and edited images, refined text, and organized content to ensure clear flow. Finally, you applied corporate branding standards and shared the draft for review, experiencing how Copilot streamlines collaboration and enhances presentation design.
 
-### You have successfully completed the Hands-on Lab!
+### You have successfully completed the lab. Click Next >> to proceed.
+
+![Start Your Azure Journey](../Media/ms4018-gs-nextpage.png)

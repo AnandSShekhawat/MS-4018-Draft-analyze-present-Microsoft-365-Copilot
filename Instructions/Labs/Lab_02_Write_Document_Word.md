@@ -14,7 +14,7 @@ In this lab, you will complete the following tasks:
 - Task 2: Convert text to a table
 - Task 3: Summarize your document
 
-### Lab prerequisites
+## Lab prerequisites
 
 Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that reference this file. You should have already uploaded it to OneDrive during the lab setup process, but if you need to download it again, you can do so here:
 
@@ -51,7 +51,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 1. Make sure the file uploaded.
 
 
-### Task 1: Draft your content
+## Task 1: Draft your content
 
 In this task, you will use Copilot in Word to create a project report from an existing Market Analysis document, then refine and rewrite sections to make the content professional and engaging.
 
@@ -130,7 +130,15 @@ In this task, you will use Copilot in Word to create a project report from an ex
 
     ![](./Media/ms2l18.png)
 
-### Task 2: Convert text to a table
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+- Hit the Validate button for the corresponding task. You will receive a success message. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="acdba74e-97be-4104-bd81-8bb0a268c45d" />
+
+## Task 2: Convert text to a table
 
 In this task, you will use Copilot in Word to transform text or lists into a table, enhancing readability and adding additional columns as needed for clarity.
 
@@ -174,7 +182,15 @@ Let's see this transformation in action.
 
 1. Review the table format and make any necessary adjustments. You can then delete the bulleted list from the Project Milestones and Deadlines section.
 
-### Task 3: Summarize your document
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+- Hit the Validate button for the corresponding task. You will receive a success message. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="794dc3b2-5696-48a6-bfd7-4df4967006dd" />
+
+## Task 3: Summarize your document
 
 In this task, you will use Copilot in Word to generate a summary of your report, highlighting key points to ensure clarity and prepare the content for sharing or further use.
 
@@ -200,8 +216,10 @@ In this task, you will use Copilot in Word to generate a summary of your report,
 
 1. Save your document for future reference. You're ready to share for review, or you can use this document as the starting point for a PowerPoint presentation.
 
-### Summary
+## Summary
 
 In this lab, you explored how Microsoft 365 Copilot in Word can help draft, improve, and share a professional document. You created a project report using Copilot prompts, rewrote and refined content, and converted text into a table for better readability. Finally, you summarized the document and prepared it for sharing, experiencing how Copilot streamlines writing and collaboration.
 
-### You have successfully completed the Hands-on Lab!
+### You have successfully completed the lab. Click Next >> to proceed.
+
+![Start Your Azure Journey](../Media/ms4018-gs-nextpage.png)
