@@ -233,6 +233,6 @@ In this lab, you gained hands-on experience using Microsoft 365 Copilot in Excel
 
 Continue practicing with different Excel files and prompts to deepen your understanding and maximize the value Copilot brings to your data analysis workflows.
 
-### You have successfully completed the lab. Click Next >> to proceed.
+### You have successfully completed the lab. Click **Next >>** to proceed.
 
 ![Start Your Azure Journey](./Media/ms4018-gs-nextpage.png)

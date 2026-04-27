@@ -239,6 +239,6 @@ In this task, you will use Copilot to review and improve the structure and flow 
 
 In this lab, you explored how Microsoft 365 Copilot in PowerPoint can help build a professional presentation from start to finish. You created a new presentation from a Word document, added an icebreaker slide, inserted and edited images, refined text, and organized content to ensure clear flow. Finally, you applied corporate branding standards and shared the draft for review, experiencing how Copilot streamlines collaboration and enhances presentation design.
 
-### You have successfully completed the lab. Click Next >> to proceed.
+### You have successfully completed the lab. Click **Next >>** to proceed.
 
 ![Start Your Azure Journey](./Media/ms4018-gs-nextpage.png)

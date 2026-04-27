@@ -145,6 +145,6 @@ By using Copilot in Team's capabilities, you can effortlessly draft, rewrite, an
 
 In this lab, you explored how Microsoft 365 Copilot in Teams and Outlook can help draft, refine, and share professional communications. You created an engaging message for your team, used Copilot to rewrite and adjust it for clarity and tone, and scheduled a meeting using Copilot to find the best time and draft a polished invite. Finally, you experienced how Copilot streamlines collaboration and team communication for effective project management.
 
-### You have successfully completed the lab. Click Next >> to proceed.
+### You have successfully completed the lab. Click **Next >>** to proceed.
 
 ![Start Your Azure Journey](./Media/ms4018-gs-nextpage.png)

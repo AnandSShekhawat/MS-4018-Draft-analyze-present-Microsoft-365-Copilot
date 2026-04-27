@@ -160,6 +160,5 @@ In this task, you will use Copilot in Outlook to draft, personalize, and send a 
 
 In this lab, you used Microsoft 365 Copilot Chat in Teams to prepare for a job interview by researching the interviewer and department, generating potential interview questions, and drafting personalized answers. You then compiled the questions and answers into an FAQ document in Word for future reference. Optionally, you used Copilot in Outlook to draft a professional thank-you email, completing a structured and comprehensive interview preparation process.
 
-### You have successfully completed the lab. Click Next >> to proceed.
+### You have successfully completed the Hand's-on lab. 
 
-![Start Your Azure Journey](./Media/ms4018-gs-nextpage.png)
